@@ -1,0 +1,180 @@
+Last login: Mon Apr 27 00:40:35 on ttys074
+You have new mail.
+stacybradford@MacBookAir ~ % whois gtt.net
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+refer:        whois.verisign-grs.com
+
+domain:       NET
+
+organisation: VeriSign Global Registry Services
+address:      12061 Bluemont Way
+address:      Reston VA 20190
+address:      United States of America (the)
+
+contact:      administrative
+name:         Registry Customer Service
+organisation: VeriSign Global Registry Services
+address:      12061 Bluemont Way
+address:      Reston VA 20190
+address:      United States of America (the)
+phone:        +1 703 925-6999
+fax-no:       +1 703 948 3978
+e-mail:       info@verisign-grs.com
+
+contact:      technical
+name:         Registry Customer Service
+organisation: VeriSign Global Registry Services
+address:      12061 Bluemont Way
+address:      Reston VA 20190
+address:      United States of America (the)
+phone:        +1 703 925-6999
+fax-no:       +1 703 948 3978
+e-mail:       info@verisign-grs.com
+
+nserver:      A.GTLD-SERVERS.NET 192.5.6.30 2001:503:a83e:0:0:0:2:30
+nserver:      B.GTLD-SERVERS.NET 192.33.14.30 2001:503:231d:0:0:0:2:30
+nserver:      C.GTLD-SERVERS.NET 192.26.92.30 2001:503:83eb:0:0:0:0:30
+nserver:      D.GTLD-SERVERS.NET 192.31.80.30 2001:500:856e:0:0:0:0:30
+nserver:      E.GTLD-SERVERS.NET 192.12.94.30 2001:502:1ca1:0:0:0:0:30
+nserver:      F.GTLD-SERVERS.NET 192.35.51.30 2001:503:d414:0:0:0:0:30
+nserver:      G.GTLD-SERVERS.NET 192.42.93.30 2001:503:eea3:0:0:0:0:30
+nserver:      H.GTLD-SERVERS.NET 192.54.112.30 2001:502:8cc:0:0:0:0:30
+nserver:      I.GTLD-SERVERS.NET 192.43.172.30 2001:503:39c1:0:0:0:0:30
+nserver:      J.GTLD-SERVERS.NET 192.48.79.30 2001:502:7094:0:0:0:0:30
+nserver:      K.GTLD-SERVERS.NET 192.52.178.30 2001:503:d2d:0:0:0:0:30
+nserver:      L.GTLD-SERVERS.NET 192.41.162.30 2001:500:d937:0:0:0:0:30
+nserver:      M.GTLD-SERVERS.NET 192.55.83.30 2001:501:b1f9:0:0:0:0:30
+ds-rdata:     37331 13 2 2f0bec2d6f79dfbd1d08fd21a3af92d0e39a4b9ef1e3f4111fff282490da453b
+
+whois:        whois.verisign-grs.com
+
+status:       ACTIVE
+remarks:      Registration information: http://www.verisigninc.com
+
+created:      1985-01-01
+changed:      2026-03-10
+source:       IANA
+
+# whois.verisign-grs.com
+
+   Domain Name: GTT.NET
+   Registry Domain ID: 69483669_DOMAIN_NET-VRSN
+   Registrar WHOIS Server: whois.networksolutions.com
+   Registrar URL: http://networksolutions.com
+   Updated Date: 2024-11-07T22:45:31Z
+   Creation Date: 2001-04-19T10:33:04Z
+   Registry Expiry Date: 2027-04-19T10:33:04Z
+   Registrar: Network Solutions, LLC
+   Registrar IANA ID: 2
+   Registrar Abuse Contact Email: domain.operations@web.com
+   Registrar Abuse Contact Phone: +1.8777228662
+   Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+   Name Server: BETTY.NS.CLOUDFLARE.COM
+   Name Server: GLEN.NS.CLOUDFLARE.COM
+   DNSSEC: signedDelegation
+   DNSSEC DS Data: 2371 13 2 0F061D1012A173C89386BA17C760877ED9055DF17ADE1A9387B0146B6573293F
+   URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of whois database: 2026-04-27T07:41:36Z <<<
+
+# whois.networksolutions.com
+
+Domain Name: GTT.NET
+Registry Domain ID: 69483669_DOMAIN_NET-VRSN
+Registrar WHOIS Server: whois.networksolutions.com
+Registrar URL: http://networksolutions.com
+Updated Date: 2022-03-03T21:08:27Z
+Creation Date: 2001-04-19T10:33:04Z
+Registrar Registration Expiration Date: 2027-04-19T10:33:04Z
+Registrar: Network Solutions, LLC
+Registrar IANA ID: 2
+Reseller: 
+Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+Registry Registrant ID: Statutory Masking Enabled
+Registrant Name: Statutory Masking Enabled
+Registrant Organization: Statutory Masking Enabled
+Registrant Street: Statutory Masking Enabled
+Registrant City: Statutory Masking Enabled
+Registrant State/Province: VA
+Registrant Postal Code: Statutory Masking Enabled
+Registrant Country: GB
+Registrant Phone: Statutory Masking Enabled
+Registrant Phone Ext: Statutory Masking Enabled
+Registrant Fax: Statutory Masking Enabled
+Registrant Fax Ext: Statutory Masking Enabled
+Registrant Email: dataprotected@maskeddetails.com
+Registry Admin ID: Statutory Masking Enabled
+Admin Name: Statutory Masking Enabled
+Admin Organization: Statutory Masking Enabled
+Admin Street: Statutory Masking Enabled
+Admin City: Statutory Masking Enabled
+Admin State/Province: Statutory Masking Enabled
+Admin Postal Code: Statutory Masking Enabled
+Admin Country: Statutory Masking Enabled
+Admin Phone: Statutory Masking Enabled
+Admin Phone Ext: Statutory Masking Enabled
+Admin Fax: Statutory Masking Enabled
+Admin Fax Ext: Statutory Masking Enabled
+Admin Email: dataprotected@maskeddetails.com
+Registry Tech ID: Statutory Masking Enabled
+Tech Name: Statutory Masking Enabled
+Tech Organization: Statutory Masking Enabled
+Tech Street: Statutory Masking Enabled
+Tech City: Statutory Masking Enabled
+Tech State/Province: Statutory Masking Enabled
+Tech Postal Code: Statutory Masking Enabled
+Tech Country: Statutory Masking Enabled
+Tech Phone: Statutory Masking Enabled
+Tech Phone Ext: Statutory Masking Enabled
+Tech Fax: Statutory Masking Enabled
+Tech Fax Ext: Statutory Masking Enabled
+Tech Email: dataprotected@maskeddetails.com
+Registry Billing ID: Statutory Masking Enabled
+Billing Name: Statutory Masking Enabled
+Billing Organization: Statutory Masking Enabled
+Billing Street: Statutory Masking Enabled
+Billing City: Statutory Masking Enabled
+Billing State/Province: Statutory Masking Enabled
+Billing Postal Code: Statutory Masking Enabled
+Billing Country: Statutory Masking Enabled
+Billing Phone: Statutory Masking Enabled
+Billing Phone Ext: Statutory Masking Enabled
+Billing Fax: Statutory Masking Enabled
+Billing Fax Ext: Statutory Masking Enabled
+Billing Email: dataprotected@maskeddetails.com
+Name Server: BETTY.NS.CLOUDFLARE.COM
+Name Server: GLEN.NS.CLOUDFLARE.COM
+DNSSEC: signedDelegation
+Registrar Abuse Contact Email: domain.operations@web.com
+Registrar Abuse Contact Phone: +1.8777228662
+Registrar Abuse Contact Phone: +1.8777228662
+DNSSEC: 2371 13 2 0F061D1012A173C89386BA17C760877ED9055DF17ADE1A9387B0146B6573293F
+Registrar Abuse Contact Email: domain.operations@web.com
+URL of the ICANN WHOIS Data Problem Reporting System: http://wdprs.internic.net/
+>>> Last update of WHOIS database: 2026-04-27T07:41:52Z <<<
+
+stacybradford@MacBookAir ~ % traceroute gtt.net
+traceroute: Warning: gtt.net has multiple addresses; using 104.18.6.174
+traceroute to gtt.net (104.18.6.174), 64 hops max, 40 byte packets
+ 1  sbe1v1k (192.168.1.1)  5.980 ms  3.584 ms  3.664 ms
+ 2  syn-076-032-138-220.res.spectrum.com (76.32.138.220)  5.020 ms  3.822 ms  4.146 ms
+ 3  syn-076-032-138-220.res.spectrum.com (76.32.138.220)  14.312 ms  14.244 ms  12.946 ms
+ 4  * syn-076-032-138-220.res.spectrum.com (76.32.138.220)  24.108 ms *
+ 5  * * *
+ 6  * * *
+ 7  syn-076-032-138-220.res.spectrum.com (76.32.138.220)  17.085 ms  15.500 ms  14.853 ms
+ 8  * * *
+ 9  lag-63.rcr01tustcaft.netops.charter.com (76.167.29.184)  17.178 ms  15.187 ms  15.702 ms
+10  lag-46-10.tustca4200w-bcr00.netops.charter.com (209.18.43.72)  18.481 ms
+    lag-26-10.tustca4200w-bcr00.netops.charter.com (66.109.3.232)  18.242 ms
+    lag-46-10.tustca4200w-bcr00.netops.charter.com (209.18.43.72)  16.451 ms
+11  lag-2.pr2.lax10.netops.charter.com (66.109.3.19)  17.732 ms  18.848 ms
+    lag-1.pr2.lax10.netops.charter.com (66.109.5.241)  19.678 ms
+12  141.101.72.52 (141.101.72.52)  81.676 ms  18.929 ms  16.848 ms
+13  141.101.72.29 (141.101.72.29)  56.022 ms
+    141.101.72.98 (141.101.72.98)  18.343 ms
+    141.101.72.85 (141.101.72.85)  19.309 ms
+14  104.18.6.174 (104.18.6.174)  16.246 ms  17.224 ms  17.895 ms
+stacybradford@MacBookAir ~ % 

@@ -1,0 +1,80 @@
+Last login: Mon Apr 27 00:38:01 on ttys073
+You have new mail.
+stacybradford@MacBookAir ~ % traceroute 38.32.58.45
+traceroute to 38.32.58.45 (38.32.58.45), 64 hops max, 40 byte packets
+ 1  sbe1v1k (192.168.1.1)  18.771 ms  3.701 ms  3.522 ms
+ 2  syn-076-032-138-220.res.spectrum.com (76.32.138.220)  4.159 ms  3.915 ms  3.736 ms
+ 3  syn-076-032-138-220.res.spectrum.com (76.32.138.220)  16.657 ms  17.052 ms  14.574 ms
+ 4  * * syn-076-032-138-220.res.spectrum.com (76.32.138.220)  23.388 ms
+ 5  * * *
+ 6  * * syn-076-032-138-220.res.spectrum.com (76.32.138.220)  23.319 ms
+ 7  syn-076-032-138-220.res.spectrum.com (76.32.138.220)  21.094 ms  16.969 ms  15.351 ms
+ 8  * * *
+ 9  lag-63.rcr01tustcaft.netops.charter.com (76.167.29.184)  17.899 ms  14.880 ms  16.152 ms
+10  lag-36-10.tustca4200w-bcr00.netops.charter.com (66.109.6.202)  18.208 ms
+    lag-46-10.tustca4200w-bcr00.netops.charter.com (209.18.43.72)  20.169 ms  26.380 ms
+11  lag-1.pr2.lax00.netops.charter.com (107.14.19.27)  19.195 ms
+    lag-801.pr2.lax00.netops.charter.com (66.109.5.247)  20.470 ms  19.027 ms
+12  ae3.cr7-lax2.ip4.gtt.net (208.116.213.117)  22.092 ms  19.472 ms  20.008 ms
+13  ae5.cr9-lax2.ip4.gtt.net (89.149.186.105)  17.879 ms
+    ae0.cr9-lax2.ip4.gtt.net (89.149.143.161)  17.857 ms  28.997 ms
+14  be3258.ccr41.lax04.atlas.cogentco.com (154.54.10.225)  27.098 ms  40.370 ms  60.814 ms
+15  be3271.ccr41.lax01.atlas.cogentco.com (154.54.42.101)  25.735 ms
+    be3360.ccr42.lax01.atlas.cogentco.com (154.54.25.149)  24.651 ms  19.727 ms
+16  be2932.ccr32.phx01.atlas.cogentco.com (154.54.45.161)  30.465 ms
+    be2931.ccr31.phx01.atlas.cogentco.com (154.54.44.85)  33.498 ms  31.247 ms
+17  be5473.ccr22.elp02.atlas.cogentco.com (154.54.166.69)  45.102 ms  37.665 ms
+    be5471.ccr21.elp02.atlas.cogentco.com (154.54.166.57)  39.524 ms
+18  be3821.ccr31.dfw01.atlas.cogentco.com (154.54.165.25)  49.791 ms  48.381 ms  56.152 ms
+19  be5383.ccr31.oma02.atlas.cogentco.com (154.54.7.234)  111.220 ms  66.239 ms
+    be5384.ccr32.oma02.atlas.cogentco.com (154.54.31.94)  67.143 ms
+20  be5214.ccr41.ord01.atlas.cogentco.com (154.54.165.134)  71.140 ms  73.659 ms
+    be5068.ccr42.ord01.atlas.cogentco.com (154.54.166.74)  73.507 ms
+21  port-channel2718.ccr92.cle04.atlas.cogentco.com (154.54.7.130)  82.640 ms  81.339 ms
+    port-channel2717.ccr91.cle04.atlas.cogentco.com (154.54.6.222)  77.044 ms
+22  be2994.ccr32.yyz02.atlas.cogentco.com (154.54.31.234)  86.035 ms
+    be2993.ccr31.yyz02.atlas.cogentco.com (154.54.31.226)  75.417 ms  80.188 ms
+23  be8402.rcr71.b054249-0.yyz02.atlas.cogentco.com (154.54.92.218)  79.264 ms
+    be8401.rcr71.b054249-0.yyz02.atlas.cogentco.com (154.54.80.202)  78.120 ms  86.335 ms
+24  * * *
+25  * * *
+26  * * *
+27  * * *
+28  * * *
+29  * * *
+30  * * *
+31  * * *
+32  * * *
+33  * * *
+34  * * *
+35  * * *
+36  * * *
+37  * * *
+38  * * *
+39  * * *
+40  * * *
+41  * * *
+42  * * *
+43  * * *
+44  * * *
+45  * * *
+46  * * *
+47  * * *
+48  * * *
+49  * * *
+50  * * *
+51  * * *
+52  * * *
+53  * * *
+54  * * *
+55  * * *
+56  * * *
+57  * * *
+58  * * *
+59  * * *
+60  * * *
+61  * * *
+62  * * *
+63  * * *
+64  * * *
+stacybradford@MacBookAir ~ % 

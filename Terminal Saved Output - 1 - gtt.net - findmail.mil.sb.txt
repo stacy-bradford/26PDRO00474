@@ -1,0 +1,369 @@
+Last login: Sun Apr 26 23:37:43 on ttys062
+You have new mail.
+stacybradford@MacBookAir ~ % traceroute 1e100.net
+traceroute: unknown host 1e100.net
+stacybradford@MacBookAir ~ % clear
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+stacybradford@MacBookAir ~ % host heartland-books.com.ne.jp
+Host heartland-books.com.ne.jp not found: 3(NXDOMAIN)
+stacybradford@MacBookAir ~ % host heartland-books.com
+Host heartland-books.com not found: 3(NXDOMAIN)
+stacybradford@MacBookAir ~ % host ne.jp              
+stacybradford@MacBookAir ~ % host 202.224.55.116
+116.55.224.202.in-addr.arpa domain name pointer mmjp-lb.asahi-net.or.jp.
+stacybradford@MacBookAir ~ % host mmjp-lb.asahi-net.or.jp.
+mmjp-lb.asahi-net.or.jp has address 202.224.55.116
+mmjp-lb.asahi-net.or.jp has IPv6 address 2001:c28:3:353:4:443:0:4
+mmjp-lb.asahi-net.or.jp has IPv6 address 2001:c28:3:353:4:443:0:5
+stacybradford@MacBookAir ~ % host 2001:c28:3:353:4:443:0:4
+Host 4.0.0.0.0.0.0.0.3.4.4.0.4.0.0.0.3.5.3.0.3.0.0.0.8.2.c.0.1.0.0.2.ip6.arpa not found: 3(NXDOMAIN)
+stacybradford@MacBookAir ~ % host 202.224.55.116
+116.55.224.202.in-addr.arpa domain name pointer mmjp-lb.asahi-net.or.jp.
+stacybradford@MacBookAir ~ % host or.jp
+stacybradford@MacBookAir ~ % host or.jp.ai
+or.jp.ai has address 172.67.163.194
+or.jp.ai has address 104.21.15.183
+or.jp.ai has IPv6 address 2606:4700:3033::6815:fb7
+or.jp.ai has IPv6 address 2606:4700:3033::ac43:a3c2
+stacybradford@MacBookAir ~ % host 2606:4700:3033::6815:fb7
+Host 7.b.f.0.5.1.8.6.0.0.0.0.0.0.0.0.0.0.0.0.3.3.0.3.0.0.7.4.6.0.6.2.ip6.arpa not found: 3(NXDOMAIN)
+stacybradford@MacBookAir ~ % host 7.b.f.0.5.1.8.6.0.0.0.0.0.0.0.0.0.0.0.0.3.3.0.3.0.0.7.4.6.0.6.2.ip6.arpa.net
+7.b.f.0.5.1.8.6.0.0.0.0.0.0.0.0.0.0.0.0.3.3.0.3.0.0.7.4.6.0.6.2.ip6.arpa.net has address 127.0.0.1
+7.b.f.0.5.1.8.6.0.0.0.0.0.0.0.0.0.0.0.0.3.3.0.3.0.0.7.4.6.0.6.2.ip6.arpa.net has IPv6 address ::1
+stacybradford@MacBookAir ~ % host 2606:4700:3033::6815
+Host 5.1.8.6.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.3.3.0.3.0.0.7.4.6.0.6.2.ip6.arpa not found: 3(NXDOMAIN)
+stacybradford@MacBookAir ~ % host 7.b.f.0.5.1.8.6.0.0.0.0.0.0.0.0.0.0.0.0.3.3.0.3.0.0.7.4.6.0.6.2.ip6.arpa.org
+7.b.f.0.5.1.8.6.0.0.0.0.0.0.0.0.0.0.0.0.3.3.0.3.0.0.7.4.6.0.6.2.ip6.arpa.org has address 127.0.0.1
+stacybradford@MacBookAir ~ % host 7.b.f.0.5.1.8.6.0.0.0.0.0.0.0.0.0.0.0.0.3.3.0.3.0.0.7.4.6.0.6.2.ip6.arpa.cc 
+Host 7.b.f.0.5.1.8.6.0.0.0.0.0.0.0.0.0.0.0.0.3.3.0.3.0.0.7.4.6.0.6.2.ip6.arpa.cc not found: 3(NXDOMAIN)
+stacybradford@MacBookAir ~ % host 7.b.f.0.5.1.8.6.0.0.0.0.0.0.0.0.0.0.0.0.3.3.0.3.0.0.7.4.6.0.6.2.ip6.arpa.sb
+Host 7.b.f.0.5.1.8.6.0.0.0.0.0.0.0.0.0.0.0.0.3.3.0.3.0.0.7.4.6.0.6.2.ip6.arpa.sb not found: 3(NXDOMAIN)
+stacybradford@MacBookAir ~ % host 7.b.f.0.5.1.8.6.0.0.0.0.0.0.0.0.0.0.0.0.3.3.0.3.0.0.7.4.6.0.6.2.ip6.arpa.bs.sb
+Host 7.b.f.0.5.1.8.6.0.0.0.0.0.0.0.0.0.0.0.0.3.3.0.3.0.0.7.4.6.0.6.2.ip6.arpa.bs.sb not found: 3(NXDOMAIN)
+stacybradford@MacBookAir ~ % host 7.b.f.0.5.1.8.6.0.0.0.0.0.0.0.0.0.0.0.0.3.3.0.3.0.0.7.4.6.0.6.2.ip6.arpa.ca   
+Host 7.b.f.0.5.1.8.6.0.0.0.0.0.0.0.0.0.0.0.0.3.3.0.3.0.0.7.4.6.0.6.2.ip6.arpa.ca not found: 3(NXDOMAIN)
+stacybradford@MacBookAir ~ % host 7.b.f.0.5.1.8.6.0.0.0.0.0.0.0.0.0.0.0.0.3.3.0.3.0.0.7.4.6.0.6.2.ip6.arpa.com
+;; connection timed out; no servers could be reached
+stacybradford@MacBookAir ~ % whois findmail.mil
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+refer:        
+
+domain:       MIL
+
+organisation: DoD Network Information Center
+address:      DISA-Columbus
+address:      300 North James Road
+address:      Whitehall OH 43213
+address:      United States of America (the)
+
+contact:      administrative
+name:         DoD NIC Registry Services
+organisation: DoD Network Information Center
+address:      DISA-Columbus
+address:      300 North James Road
+address:      Whitehall OH 43213
+address:      United States of America (the)
+phone:        +1 614 692 6640
+e-mail:       disa.columbus.ns.mbx.hostmaster-dod-nic@mail.mil
+
+contact:      technical
+name:         DoD NIC Registry Services
+organisation: DoD Network Information Center
+address:      DISA-Columbus
+address:      300 North James Road
+address:      Whitehall OH 43213
+address:      United States of America (the)
+phone:        +1 614 692 6640
+e-mail:       disa.columbus.ns.mbx.hostmaster-dod-nic@mail.mil
+
+nserver:      CON1.NIPR.MIL 199.252.157.234 2608:140:c:157:0:0:0:234
+nserver:      CON2.NIPR.MIL 199.252.162.234 2608:120:c:162:0:0:0:234
+nserver:      EUR1.NIPR.MIL 199.252.154.234 2608:4122:2:154:0:0:0:234
+nserver:      EUR2.NIPR.MIL 199.252.143.234 2608:4163:1:143:0:0:0:234
+nserver:      PAC1.NIPR.MIL 199.252.180.234 2608:c184:1:180:0:0:0:234
+nserver:      PAC2.NIPR.MIL 199.252.155.234 2608:c144:1:155:0:0:0:234
+ds-rdata:     45019 8 2 28e0bc91841d398a8d96be5115f3eb780a440a75acdf4fb6a735f60a422bd437
+
+whois:        
+
+status:       ACTIVE
+remarks:      Registration information: 
+
+created:      1985-01-01
+changed:      2026-03-10
+source:       IANA
+
+stacybradford@MacBookAir ~ % host findmail.mil 
+Host findmail.mil not found: 3(NXDOMAIN)
+stacybradford@MacBookAir ~ % host findmail.mil.cc
+Host findmail.mil.cc not found: 3(NXDOMAIN)
+stacybradford@MacBookAir ~ % host findmail.mil.sb
+findmail.mil.sb has address 76.223.54.146
+findmail.mil.sb has address 13.248.169.48
+stacybradford@MacBookAir ~ % host findmail.mil.ru
+Host findmail.mil.ru not found: 3(NXDOMAIN)
+stacybradford@MacBookAir ~ % host findmail.mil.gg
+findmail.mil.gg has address 204.209.56.13
+findmail.mil.gg has address 204.209.56.14
+findmail.mil.gg has address 204.209.56.12
+findmail.mil.gg has address 204.209.56.10
+findmail.mil.gg has address 204.209.56.11
+findmail.mil.gg has address 204.209.56.15
+findmail.mil.gg has address 204.209.56.9
+findmail.mil.gg has address 204.209.56.8
+stacybradford@MacBookAir ~ % host findmail.mil.ms
+findmail.mil.ms has address 13.248.169.48
+findmail.mil.ms has address 76.223.54.146
+stacybradford@MacBookAir ~ % whois findmail.mil.sb
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+refer:        whois.nic.net.sb
+
+domain:       SB
+
+organisation: Solomon Telekom Company Limited
+address:      Telekom Haus
+address:      Mendana Avenue
+address:      P.O. Box 148
+address:      Honiara City Council
+address:      Honiara
+address:      Solomon Islands
+
+contact:      administrative
+name:         Manager Information Systems
+organisation: Solomon Telekom Company Limited
+address:      Telekom Haus
+address:      Mendana Avenue
+address:      P.O. Box 148
+address:      Honiara City Council
+address:      Honiara
+address:      Solomon Islands
+phone:        +677 43360
+fax-no:       +677 30003
+e-mail:       iana.admin@telekom.com.sb
+
+contact:      technical
+name:         Senior Engineer SBNIC
+organisation: Solomon Telekom Company Limited
+address:      Telekom Haus
+address:      Mendana Avenue
+address:      P.O. Box 148
+address:      Honiara City Council
+address:      Honiara
+address:      Solomon Islands
+phone:        +677 43119
+fax-no:       +677 30003
+e-mail:       iana.tech@telekom.com.sb
+
+nserver:      NS1.ANYCASTDNS.CZ 185.38.108.108 2a00:fea0:dead:0:0:0:0:beef
+nserver:      NS2.ANYCASTDNS.CZ 185.28.194.194
+nserver:      PCH.NIC.SB 2001:500:14:6031:ad:0:0:1 204.61.216.31
+ds-rdata:     17635 8 2 27f59686a15b09dc8293fac9c31e5be51abf214e1e9cd5b21cbe50f0f311c780
+
+whois:        whois.nic.net.sb
+
+status:       ACTIVE
+remarks:      Registration information: http://www.nic.net.sb/
+
+created:      1994-04-19
+changed:      2022-11-21
+source:       IANA
+
+# whois.nic.net.sb
+
+whois: connect(): Operation timed out
+stacybradford@MacBookAir ~ % cd /Desktop
+cd: no such file or directory: /Desktop
+stacybradford@MacBookAir ~ % cd desktop
+stacybradford@MacBookAir desktop % ls
+ch100 copy.pdf						Screenshot 2026-04-21 at 23.34.59.png
+ch100.pdf						Screenshot 2026-04-21 at 23.54.33.png
+ch109 copy.pdf						Screenshot 2026-04-22 at 00.29.38.png
+ch109.pdf						Screenshot 2026-04-22 at 03.51.22.png
+ch110 copy.pdf						Screenshot 2026-04-22 at 03.52.47.png
+ch110.pdf						Screenshot 2026-04-22 at 04.50.40.png
+ch130 copy.pdf						Screenshot 2026-04-22 at 04.52.34.png
+ch130.pdf						Screenshot 2026-04-22 at 04.58.12.png
+clets001 copy.pdf					Screenshot 2026-04-22 at 05.17.45.png
+clets001.pdf						Screenshot 2026-04-22 at 05.36.30.png
+cm010 copy.pdf						Screenshot 2026-04-22 at 06.05.41.png
+cm010.pdf						Screenshot 2026-04-22 at 06.25.41.png
+email 1 headers.pdf					Screenshot 2026-04-22 at 13.00.32.png
+email 2 headers.pdf					Screenshot 2026-04-22 at 13.20.38.png
+email 3 headers.pdf					Screenshot 2026-04-22 at 23.08.19.png
+Forensic_Audit_20260422					Screenshot 2026-04-22 at 23.08.48.png
+ft with thom - 04.24.26 - Terminal Saved Output.txt	Screenshot 2026-04-22 at 23.10.36.png
+kwcvsbd-sub-01.pdf					Screenshot 2026-04-23 at 17.25.12.png
+LASC CIV 109 copy.pdf					Screenshot 2026-04-23 at 18.51.22.png
+LASC CIV 109.pdf					Screenshot 2026-04-23 at 18.52.24.png
+me and lb ft - Terminal Saved Output.txt		Screenshot 2026-04-23 at 18.52.52.png
+pornhub							Screenshot 2026-04-24 at 17.32.07.png
+Screenshot 2026-04-21 at 07.35.20.png			Screenshot 2026-04-24 at 23.38.05.png
+Screenshot 2026-04-21 at 15.26.11.png			Screenshot 2026-04-25 at 18.26.18.png
+Screenshot 2026-04-21 at 17.53.28.png			Screenshot 2026-04-25 at 22.01.01.png
+Screenshot 2026-04-21 at 17.55.25.png			Screenshot 2026-04-26 at 18.58.07.png
+Screenshot 2026-04-21 at 17.57.04.png			Screenshot 2026-04-26 at 19.04.29.png
+Screenshot 2026-04-21 at 17.57.55.png			Screenshot 2026-04-26 at 19.11.20.png
+Screenshot 2026-04-21 at 18.01.33.png			Screenshot 2026-04-26 at 19.17.16.png
+Screenshot 2026-04-21 at 18.02.59.png			Screenshot 2026-04-26 at 19.50.46.png
+Screenshot 2026-04-21 at 18.05.21.png			Screenshot 2026-04-26 at 22.29.21.png
+Screenshot 2026-04-21 at 18.29.49.png			Screenshot 2026-04-26 at 22.39.16.png
+Screenshot 2026-04-21 at 18.52.50.png			Screenshot 2026-04-26 at 22.45.27.png
+Screenshot 2026-04-21 at 19.02.21.png			Screenshot 2026-04-26 at 23.52.58.png
+Screenshot 2026-04-21 at 21.34.05.png			Screenshot 2026-04-27 at 00.05.05.png
+Screenshot 2026-04-21 at 21.34.11.png			Screenshot 2026-04-27 at 00.06.57.png
+Screenshot 2026-04-21 at 22.25.49.png			TERM-001.txt
+Screenshot 2026-04-21 at 23.04.51.png			untitled folder
+Screenshot 2026-04-21 at 23.12.03.png			Usage Analysis Summary.html
+stacybradford@MacBookAir desktop % sha256 "Screenshot 2026-04-27 at 00.06.57.png"
+SHA256 (Screenshot 2026-04-27 at 00.06.57.png) = 8aa5cedc6dee4c81eed9441fb867266ffbc8764063aae17e44678d23f752bccf
+stacybradford@MacBookAir desktop % sha256 "Screenshot 2026-04-27 at 00.05.05.png"
+SHA256 (Screenshot 2026-04-27 at 00.05.05.png) = e28295e342784d2698f5c2cc17e3e7c438981a775a6d2e6ce23f0c2b49ba3575
+stacybradford@MacBookAir desktop % system_profiler SPBluetoothDatatype
+stacybradford@MacBookAir desktop % host 255.15.15.0
+Host 0.15.15.255.in-addr.arpa. not found: 3(NXDOMAIN)
+stacybradford@MacBookAir desktop % host 255.1.51.5
+Host 5.51.1.255.in-addr.arpa. not found: 3(NXDOMAIN)
+stacybradford@MacBookAir desktop % host 255.1.51.50
+Host 50.51.1.255.in-addr.arpa. not found: 3(NXDOMAIN)
+stacybradford@MacBookAir desktop % host 255.15.1.5  
+Host 5.1.15.255.in-addr.arpa. not found: 3(NXDOMAIN)
+stacybradford@MacBookAir desktop % host 255.15.1.50
+Host 50.1.15.255.in-addr.arpa. not found: 3(NXDOMAIN)
+stacybradford@MacBookAir desktop % host 15.255.15.0
+Host 0.15.255.15.in-addr.arpa. not found: 3(NXDOMAIN)
+stacybradford@MacBookAir desktop % host 15.15.255.0
+Host 0.255.15.15.in-addr.arpa. not found: 3(NXDOMAIN)
+stacybradford@MacBookAir desktop % host 15.15.255.255
+Host 255.255.15.15.in-addr.arpa. not found: 3(NXDOMAIN)
+stacybradford@MacBookAir desktop % host 2.55.15.15   
+15.15.55.2.in-addr.arpa domain name pointer 31-154-15-15.orange.net.il.
+15.15.55.2.in-addr.arpa domain name pointer 2-55-15-15.orange.net.il.
+stacybradford@MacBookAir desktop % host 2-55-15-15.orange.net.il.
+Host 2-55-15-15.orange.net.il. not found: 3(NXDOMAIN)
+stacybradford@MacBookAir desktop % howt orange.net.il
+zsh: command not found: howt
+stacybradford@MacBookAir desktop % host orange.net.il
+orange.net.il mail is handled by 10 mx10.012.net.il.
+orange.net.il mail is handled by 100 mx100.012.net.il.
+stacybradford@MacBookAir desktop % host orange.net.il.io
+Host orange.net.il.io not found: 3(NXDOMAIN)
+stacybradford@MacBookAir desktop % host orange.net.il.sb
+Host orange.net.il.sb not found: 3(NXDOMAIN)
+stacybradford@MacBookAir desktop % host 2-55-15-15.orange.net.il.sb
+Host 2-55-15-15.orange.net.il.sb not found: 3(NXDOMAIN)
+stacybradford@MacBookAir desktop % host 2-55-15-15.orange.net.il.bs.sb
+Host 2-55-15-15.orange.net.il.bs.sb not found: 3(NXDOMAIN)
+stacybradford@MacBookAir desktop % host 2-55-15-15.orange.net.il.bs   
+Host 2-55-15-15.orange.net.il.bs not found: 3(NXDOMAIN)
+stacybradford@MacBookAir desktop % host 2-55-15-15.orange.net.il.ca
+2-55-15-15.orange.net.il.ca has address 174.138.112.201
+stacybradford@MacBookAir desktop % host  174.138.112.201           
+
+Host 201.112.138.174.in-addr.arpa. not found: 3(NXDOMAIN)
+stacybradford@MacBookAir desktop % traceroute  174.138.112.201
+
+traceroute to 174.138.112.201 (174.138.112.201), 64 hops max, 40 byte packets
+ 1  sbe1v1k (192.168.1.1)  13.794 ms  3.789 ms  3.559 ms
+ 2  syn-076-032-138-220.res.spectrum.com (76.32.138.220)  4.809 ms  4.577 ms  3.691 ms
+ 3  syn-076-032-138-220.res.spectrum.com (76.32.138.220)  15.209 ms  12.832 ms  13.026 ms
+ 4  * * *
+ 5  * * *
+ 6  * * *
+ 7  syn-076-032-138-220.res.spectrum.com (76.32.138.220)  31.900 ms  22.053 ms  28.547 ms
+ 8  * * *
+ 9  lag-63.rcr01tustcaft.netops.charter.com (76.167.29.184)  20.050 ms  15.738 ms  16.082 ms
+10  lag-46-10.tustca4200w-bcr00.netops.charter.com (209.18.43.72)  18.190 ms
+    lag-16-10.tustca4200w-bcr00.netops.charter.com (66.109.6.64)  21.209 ms
+    lag-46-10.tustca4200w-bcr00.netops.charter.com (209.18.43.72)  21.105 ms
+11  lag-801.pr2.lax00.netops.charter.com (66.109.5.247)  17.224 ms  18.821 ms
+    lag-1.pr2.lax00.netops.charter.com (107.14.19.27)  20.325 ms
+12  ae3.cr7-lax2.ip4.gtt.net (208.116.213.117)  18.100 ms  22.059 ms  20.842 ms
+13  ae5.cr9-lax2.ip4.gtt.net (89.149.186.105)  16.304 ms  19.798 ms  19.167 ms
+14  * * be3258.ccr41.lax04.atlas.cogentco.com (154.54.10.225)  18.553 ms
+15  be3271.ccr41.lax01.atlas.cogentco.com (154.54.42.101)  19.676 ms  18.946 ms
+    be3360.ccr42.lax01.atlas.cogentco.com (154.54.25.149)  19.035 ms
+16  be2931.ccr31.phx01.atlas.cogentco.com (154.54.44.85)  59.619 ms  33.504 ms
+    be2932.ccr32.phx01.atlas.cogentco.com (154.54.45.161)  29.157 ms
+17  be5471.ccr21.elp02.atlas.cogentco.com (154.54.166.57)  35.646 ms  46.845 ms  38.763 ms
+18  be3846.ccr32.dfw01.atlas.cogentco.com (154.54.165.29)  49.417 ms  51.730 ms  47.800 ms
+19  be5384.ccr32.oma02.atlas.cogentco.com (154.54.31.94)  62.360 ms
+    be5383.ccr31.oma02.atlas.cogentco.com (154.54.7.234)  61.805 ms  70.258 ms
+20  be5068.ccr42.ord01.atlas.cogentco.com (154.54.166.74)  73.188 ms  72.320 ms  72.767 ms
+21  port-channel2718.ccr92.cle04.atlas.cogentco.com (154.54.7.130)  82.350 ms
+    port-channel2717.ccr91.cle04.atlas.cogentco.com (154.54.6.222)  75.447 ms  73.647 ms
+22  be2993.ccr31.yyz02.atlas.cogentco.com (154.54.31.226)  77.531 ms
+    be2994.ccr32.yyz02.atlas.cogentco.com (154.54.31.234)  83.079 ms  83.557 ms
+23  be8401.rcr71.b054249-0.yyz02.atlas.cogentco.com (154.54.80.202)  76.542 ms  73.744 ms  77.474 ms
+24  38.32.58.45 (38.32.58.45)  81.960 ms
+    38.32.58.43 (38.32.58.43)  83.899 ms  82.632 ms
+25  * * *
+26  * * *
+27  * * *
+28  * * *
+29  * * *
+30  * * *
+31  * * *
+32  * * *
+33  * * *
+34  * * *
+35  * * *
+36  * * *
+37  * * *
+38  * * *
+39  * * *
+40  * * *
+41  * * *
+42  * * *
+43  * * *
+44  * * *
+45  * * *
+46  * * *
+47  * * *
+48  * * *
+49  * * *
+50  * * *
+51  * * *
+52  * * *
+53  * * *
+54  * * *
+55  * * *
+56  * * *
+57  * * *
+58  * * *
+59  * * *
+60  * * *
+61  * * *
+62  * * *
+63  * * *
+64  * * *
+stacybradford@MacBookAir desktop % 

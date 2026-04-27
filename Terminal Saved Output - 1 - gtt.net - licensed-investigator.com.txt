@@ -1,0 +1,60 @@
+Last login: Mon Apr 27 00:43:25 on ttys076
+You have new mail.
+stacybradford@MacBookAir ~ % host licensed-investigator.com
+licensed-investigator.com has address 172.67.206.8
+licensed-investigator.com has address 104.21.69.68
+licensed-investigator.com has IPv6 address 2606:4700:3032::6815:4544
+licensed-investigator.com has IPv6 address 2606:4700:3031::ac43:ce08
+licensed-investigator.com mail is handled by 5 alt1.aspmx.l.google.com.
+licensed-investigator.com mail is handled by 5 alt2.aspmx.l.google.com.
+licensed-investigator.com mail is handled by 1 aspmx.l.google.com.
+licensed-investigator.com mail is handled by 10 aspmx2.googlemail.com.
+licensed-investigator.com mail is handled by 10 aspmx3.googlemail.com.
+stacybradford@MacBookAir ~ % clear
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+stacybradford@MacBookAir ~ % traceroute licensed-investigator.com
+traceroute: Warning: licensed-investigator.com has multiple addresses; using 172.67.206.8
+traceroute to licensed-investigator.com (172.67.206.8), 64 hops max, 40 byte packets
+ 1  sbe1v1k (192.168.1.1)  4.567 ms  3.645 ms  3.008 ms
+ 2  syn-076-032-138-220.res.spectrum.com (76.32.138.220)  3.936 ms  6.339 ms  3.684 ms
+ 3  syn-076-032-138-220.res.spectrum.com (76.32.138.220)  12.458 ms  15.503 ms  13.940 ms
+ 4  * * *
+ 5  * * *
+ 6  * * *
+ 7  syn-076-032-138-220.res.spectrum.com (76.32.138.220)  24.827 ms  16.588 ms  15.875 ms
+ 8  * * *
+ 9  lag-63.rcr01tustcaft.netops.charter.com (76.167.29.184)  23.795 ms  17.592 ms  16.682 ms
+10  lag-26-10.tustca4200w-bcr00.netops.charter.com (66.109.3.232)  17.417 ms
+    lag-16-10.tustca4200w-bcr00.netops.charter.com (66.109.6.64)  16.361 ms
+    lag-56-10.tustca4200w-bcr00.netops.charter.com (66.109.10.10)  17.029 ms
+11  lag-2.pr2.lax10.netops.charter.com (66.109.3.19)  19.514 ms  17.321 ms
+    lag-1.pr2.lax10.netops.charter.com (66.109.5.241)  18.908 ms
+12  * 141.101.72.52 (141.101.72.52)  36.656 ms  17.136 ms
+13  141.101.72.100 (141.101.72.100)  33.363 ms  23.815 ms
+    141.101.72.19 (141.101.72.19)  36.715 ms
+14  172.67.206.8 (172.67.206.8)  17.556 ms  17.558 ms  16.960 ms
+stacybradford@MacBookAir ~ % 
+
+
+
+
+
+
+
+
