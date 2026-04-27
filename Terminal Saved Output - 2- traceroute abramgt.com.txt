@@ -1,0 +1,74 @@
+Last login: Mon Apr 27 01:15:33 on ttys081
+You have new mail.
+stacybradford@MacBookAir ~ % host abramgt.com
+abramgt.com has address 3.33.251.168
+abramgt.com has address 15.197.225.128
+abramgt.com mail is handled by 0 abramgt-com.mail.protection.outlook.com.
+stacybradford@MacBookAir ~ % traceroute 15.197.225.128
+traceroute to 15.197.225.128 (15.197.225.128), 64 hops max, 40 byte packets
+ 1  sbe1v1k (192.168.1.1)  7.828 ms  4.022 ms  3.588 ms
+ 2  syn-076-032-138-220.res.spectrum.com (76.32.138.220)  4.124 ms  5.102 ms  31.838 ms
+ 3  syn-076-032-138-220.res.spectrum.com (76.32.138.220)  15.787 ms  15.493 ms  13.749 ms
+ 4  * * syn-076-032-138-220.res.spectrum.com (76.32.138.220)  15.331 ms
+ 5  * * *
+ 6  * syn-076-032-138-220.res.spectrum.com (76.32.138.220)  21.291 ms *
+ 7  syn-076-032-138-220.res.spectrum.com (76.32.138.220)  17.109 ms  16.799 ms  16.400 ms
+ 8  * * *
+ 9  lag-63.rcr01tustcaft.netops.charter.com (76.167.29.184)  16.385 ms  17.914 ms  22.389 ms
+10  lag-26-10.tustca4200w-bcr00.netops.charter.com (66.109.3.232)  18.518 ms
+    lag-46-10.tustca4200w-bcr00.netops.charter.com (209.18.43.72)  21.791 ms  20.894 ms
+11  * * *
+12  * * *
+13  * * *
+14  * * *
+15  * * *
+16  * * *
+17  * * *
+18  * * *
+19  * * *
+20  * * *
+21  * * *
+22  * * *
+23  * * *
+24  * * *
+25  * * *
+26  * * *
+27  * * *
+28  * * *
+29  * * *
+30  * * *
+31  * * *
+32  * * *
+33  * * *
+34  * * *
+35  * * *
+36  * * *
+37  * * *
+38  * * *
+39  * * *
+40  * * *
+41  * * *
+42  * * *
+43  * * *
+44  * * *
+45  * * *
+46  * * *
+47  * * *
+48  * * *
+49  * * *
+50  * * *
+51  * * *
+52  * * *
+53  * * *
+54  * * *
+55  * * *
+56  * * *
+57  * * *
+58  * * *
+59  * * *
+60  * * *
+61  * * *
+62  * * *
+63  * * *
+64  * * *
+stacybradford@MacBookAir ~ % 
