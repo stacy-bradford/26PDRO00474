@@ -1,0 +1,1055 @@
+Last login: Tue Apr 28 11:17:00 on ttys142
+You have new mail.
+stacybradford@MacBookAir ~ % stacybradford@MacBookAir ~ % cat .zsh_history    
+
+zsh: command not found: stacybradford@MacBookAir
+stacybradford@MacBookAir ~ % cat .zsh_history   
+hops -wwp 1152
+ps -wwp 1152
+bash\
+iptables -t raw -A PREROUTING -p tcp -m tcp --syn -j NOTRACK\
+iptables -A FORWARD -p tcp -m tcp -m state --state INVALID,UNTRACKED -j SYNPROXY --sack-perm --timestamp --wscale 7 --mss 1460
+cat /protocols/
+cat /etc/protocols/
+cat/protocols
+host satnetmonitor.com
+host 214.135.181.124
+host 181.214.135.124
+host 124.214.181.135
+host KD124214181135.ppp-bb.dion.ne.jp.
+host KD124214181135.ppp-bb.dion.ne.jp.cc
+host KD124214181135.ppp-bb.dion.ne.jp.edu.edu
+host satnetmonitor.edu.edu
+host 2a01:4f9:3a:2c43::2
+host stacys-iphone.lo.cc
+host stacys-iphone.lo.lacol.com
+host stacys-iphone.lo.lacol.ccc
+host stacys-iphone.lo.lacol.cc
+host stacys-iphone.lo.lacol.gg
+host stacys-iphone.lo.local
+host stacys-iphone.lo.gg
+host stacys-iphone.lo.cc
+host stacys-iphone.lo.rr
+host stacys-iphone.lo.com
+host stacys-iphone.lo.net
+host 35.215.117.203
+whois 203.117.215.35.bc.googleusercontent.com.
+whois stacys-iphone.lo.net
+whois tacys-iphone.lo.
+whois tacys-iphone.lo.org
+host stacys-iphone.lo.org
+host stacys-iphone.lo.ol
+host stacys-iphone.lo.ll
+host stacys-iphone.lo.local
+diag sniffer packet any 'host 192.168.1.10' 4
+sw_vers
+17.248.193.22
+host 17.248.193.22
+host 17.248.193.22.https.cc
+17.248.193.49.https
+host 17.248.193.49.https
+host 17.248.193.49.https.cc
+host 108.166.232.9
+host 108.9.166.232
+sudo tcpdump -i any -X -nn
+host 54.252.89.206
+host  ec2-54-252-89-206.ap-southeast-2.compute.amazonaws.com.
+host amazonaws.com
+host amazon-smtp.amazon.com.cc
+host amazon-smtp.amazon.com.tx
+host amazon-smtp.amazon.com.ms
+host amazon-smtp.amazon.com.ru
+host amazon-smtp.amazon.com.edu.edu
+host 2600:3c01::f03c:95ff:feeb:5ed6
+2600:3c01::f03c:95ff:feeb:5ed6.cc
+2600:3c01::f03c:95ff:feeb:5ed6.tx
+2600:3c01::f03c:95ff:feeb:5ed6:cc
+host 2600:3c01::f03c:95ff:feeb:5ed6.cc
+host 2600:3c01::f03c:95ff:feeb:5ed6.ms
+host 2600:3c01::f03c:95ff:feeb:5ed6.tx
+host 2600:3c01::f03c:95ff:feeb:5ed6.xt
+host 2600:3c01::f03c:95ff:feeb:5ed6.https
+host 2600:3c01::f03c:95ff:feeb:5ed6.https.cc
+host edu.edu.cc
+host ms.edu.edu
+host tx.edu.edu
+host txt.edu.edu
+host xt.edu.edu
+host xt.edu.edu|\
+https://www.loom.com
+host xt.edu.edu|\
+https://www.loom.com
+host xt.edu.edu|\
+moc.mool\\:sptth
+host xt.edu.edu|\
+moc.mool//:sptth
+host xt.edu.edu|\
+moc.mool//:sptth.cc
+host https://loom.com
+host loom.com
+host 2600:9000:20ee:1000:c:cfd4:a580:93a1
+host 2600:9000:20ee:1000:c:cfd4:a580:93a1.ru
+host 2600:9000:20ee:1000:c:cfd4:a580:93a1.c
+host 2600:9000:20ee:1000:c:cfd4:a580:93a1.cc
+host 2600:9000:20ee:1000:c:cfd4:a580:93a1.ms
+host 2600:9000:20ee:1000:c:cfd4:a580:93a1.https.cc
+host koutu.cc
+host koutu.cc.qq
+host koutu.cc.kk
+host koutu.cc.mm
+host koutu.cc.mmbm
+host koutu.cc.kc
+host koutu.cc.ck
+host koutu.cc.https.ck
+host koutu.cc.https.kc
+host koutu.cc.https.bw
+host aka.ms.ck
+host aka.ms.kc
+whois https.cc
+last
+who
+host aka.ms.mss
+host aka.mss
+host aka.ms
+ifconfig
+ifconfig
+host licensed-investigator.com
+cat /etc/services
+host terminator.cc.umich.edu
+host terminator.cc.umich.edu.com
+host wolfesinvestigations.com
+host lkml.org
+host licensed-investigator.com
+host 1.0.0.127.ru
+host 651321.parkingcrew.net
+host spotify.com
+host yfitops.com
+host fromouterstace.com
+host fromouterstace.com.edu
+host fromouterstace.com.edu.edu
+host 2600:3c01::f03c:95ff:fe91:5de5
+host 2600:3c01::f03c:95ff:fe91:5de5.cc
+host 5.e.d.5.1.9.e.f.f.f.5.9.c.3.0.f.0.0.0.0.0.0.0.0.1.0.c.3.0.0.6.2.ip6.arpa.cc
+host 5.e.d.5.1.9.e.f.f.f.5.9.c.3.0.f.0.0.0.0.0.0.0.0.1.0.c.3.0.0.6.2.ip6.arpa.ru
+host 74.207.241.245
+host 23.239.4.93
+host 5.e.d.5.1.9.e.f.f.f.5.9.c.3.0.f.0.0.0.0.0.0.0.0.1.0.c.3.0.0.6.2.ip6.arpa.net
+clear
+host fromouterstace.com.edu
+host fromouterstace.com.edu.edu
+host 2600:3c01::f03c:95ff:fe91:5de5
+host 5.e.d.5.1.9.e.f.f.f.5.9.c.3.0.f.0.0.0.0.0.0.0.0.1.0.c.3.0.0.6.2.ip6.arpa.net
+127.0.0.1 is also known as localhost
+host tsohlacol.nal.ru.cc
+arp -a
+host 192.168.1.161.ru
+host 17.20.10.1
+host 1.10.20.17.in-addr.arpa.org
+host 1.10.20.17.in-addr.arpa.net
+host 1.10.20.17.in-addr.arpa.com
+host 1.10.20.17.in-addr.arpa.edu
+host 1.10.20.17.in-addr.arpa.edu.edu
+host 1.10.20.17.in-addr.arpa.ru
+host 1.10.20.17.in-addr.arpa.cc
+host 1.10.20.17.in-addr.arpa.ru.cc
+whois 1.10.20.17.in-addr.arpa.net
+host A.NS.APPLE.COM
+host 2620:149:ae0::53
+host 3.5.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.e.a.0.9.4.1.0.0.2.6.2.ip6.arpa.org
+whois 3.5.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.e.a.0.9.4.1.0.0.2.6.2.ip6.arpa.org
+whois 3.5.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.e.a.0.9.4.1.0.0.2.6.2.ip6.arpa.net
+whois 3.5.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.e.a.0.9.4.1.0.0.2.6.2.ip6.arpa.com
+whois 3.5.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.e.a.0.9.4.1.0.0.2.6.2.ip6.arpa.gro.org
+whois arin.authdns.ripe.net.net
+whois arin.authdns.ripe.org.cc
+whois arin.authdns.ripe.org
+whois arin.authdns.ripe.gro.org
+whois identity.digital
+host 142.251.210.138
+host dclaxa-as-in-f10.1e100.net.
+host 2607:f8b0:4007:80b::a
+whois a.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.b.0.8.0.7.0.0.4.0.b.8.f.7.0.6.2.ip6.arpa.net
+whois a.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.b.0.8.0.7.0.0.4.0.b.8.f.7.0.6.2.ip6.arpa.org
+whois a.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.b.0.8.0.7.0.0.4.0.b.8.f.7.0.6.2.ip6.arpa.cc
+host 142.251.210.138
+host 210.142.251.138
+host 251.210.142.138
+host 251.210.138.142
+host 138.210.251.142
+host 251.138.210.142
+host 210.251.138.142
+lsof -i -P -n
+sudo lsof -i -P -n
+host dfw25s58-in-f6.1e100.net.https.cc
+host dfw25s58-in-f6.1e100.net.https.cc.cc.sptth.nal.riakoobcam
+host dfw25s58-in-f6.1e100.net.https.sptth.nal.riakoobcam.cc
+host dfw25s58-in-f6.1e100.net.https.sptth.nal.riakoobcam.edu
+host dfw25s58-in-f6.1e100.net.https.sptth.nal.riakoobcam.edu.edu
+host dfw25s58-in-f6.1e100.net.https.sptth.riakoobcam.nal.cc
+host dfw25s58-in-f6.1e100.net.https.sptth.riakoobcam.nal.ru
+host dfw25s58-in-f6.1e100.net.https.sptth.riakoobcam.nal.edu
+host dfw25s58-in-f6.1e100.net.https.sptth.riakoobcam.nal.com
+host dfw25s58-in-f6.1e100.net.https.sptth.riakoobcam.nal.net
+host dfw25s58-in-f6.1e100.net.https.sptth.riakoobcam.nal.org
+host dfw25s58-in-f6.1e100.net.https.sptth.riakoobcam.nal.gro.org
+host dfw25s58-in-f6.1e100.net.https.sptth.riakoobcam.nal.tech
+host dfw25s58-in-f6.1e100.net.https.sptth.riakoobcam.nal.gov
+host dfw25s58-in-f6.1e100.net.https.sptth.riakoobcam.nal.gov.ru
+host dfw25s58-in-f6.1e100.net.https.sptth.riakoobcam.nal.ru.gov
+host dfw25s58-in-f6.1e100.net.https.sptth.riakoobcam.nal.cc
+arp -a
+bash\
+dns-sd -G v4 192.168.1.205
+sudo btmon
+sudo log show --predicate 'subsystem == "com.apple.bluetooth"' --info
+sudo log config --mode "private_data:on"
+ls
+find bluetooth log 04.15.2026
+cd Desktop
+ls
+shasum -a 256 "bluetooth log 04.15.2026.txt"
+shasum -a 256 "Bluetooth Log - 04.15.26 - Terminal Saved Output.txt "
+shasum -a 256 "Bluetooth Log - 04.15.26 - Terminal Saved Output.txt"
+rm -rf "/Applications/Google Chrome.app"\
+
+rm -rf ~/Library/Application\ Support/Google/Chrome\
+
+rm -rf ~/Library/Caches/Google/Chrome\
+
+rm -rf ~/Library/Preferences/com.google.Chrome.plist\
+
+rm -rf ~/Library/Google/GoogleSoftwareUpdate 
+sudo lsof
+netstat
+host com.apple.network.tcp_ccdebug
+host com.apple.network.tcp_ccdebug.cc
+host com.apple.network.tcp_ccdebug.ru
+host com.apple.network.tcp_ccdebug.gg
+host gubedcc_pct.krowten.elppa.com
+host gubedcc_pct.krowten.elppa.com.cc
+host gubedcc_pct.krowten.elppa.com.ru
+host gubedcc_pct.krowten.elppa.com.gg
+host gubedcc_pct.krowten.elppa.com.host 
+host com.apple.network.tcp_ccdebug.edu
+host com.apple.network.tcp_ccdebug.edu.edu
+host 194.104.147.24
+host 45.131.69.52
+host gubedcc_pct.krowten.elppa.com.io
+host gubedcc_pct.krowten.elppa.io
+host com.apple.network.tcp_ccdebug.io
+host com.apple.network.tcp_ccdebug.ai
+host com.apple.network.tcp_ccdebug.tx.https
+host com.apple.network.tcp_ccdebug.tx.https.cc
+host 122.51.213.185
+host intercom.io
+host 216.137.39.115
+host 216.137.39.51
+host 216.137.39.70
+host 216.137.39.33
+sudo tcpdump -i any udp port 5353
+dns-sd -B _services._dns-sd._udp .
+log stream --level debug --predicate 'process == "mDNSResponder"'
+sudo tcpdump en0
+sudo tcpdump -i -x any
+sudo tcpdump -i any
+clear
+sudo tcpdump -i any
+host h-email.net.
+host h-email.net.ten.net
+host h-email.net.cc
+host h-email.net.https.tx
+host h-email.net.https.tx.cc
+host ten.liame-h.net
+host ten.liame-h.cc
+host ten.liame-h.edu
+host ten.liame-h.org
+host ten.liame-h.com
+host ten.liame-h.net
+host ten.liame-h.tech
+host ten.liame-h.digital
+host ten.liame-h.edu.edu
+host ten.liame-h.edu.edu.cc
+host ten.liame-h.edu.edu.ru
+host ten.liame-h.edu.edu.ru.cc
+host ten.liame-h.edu.edu.cc.cc
+host 52.222.244.58
+host h-email.net
+host h-email.net_tcp.local.
+host h-email.net_tcp.local.cc
+host h-email.net_tcp.local.ru
+host h-email.net_tcp.local.gg
+host h-email.net_tcp.local.ms
+host h-email.net_upp.local.ms
+host h-email.net_upp.local.cc
+host h-email.net_upp.local.tx
+host h-email.net_upp.local.zsh
+host h-email.net_upp.local.gg
+host h-email.net_upp.local.ru
+host h-email.net_udp.local.ru
+host h-email.net_udp.local.cc
+host h-email.net_udp.local.https.sptth.721.0.0.1
+host h-email.net_udp.local.https.sptth.721.0.0.1.cc
+host h-email.net_udp.local.https.sptth.721.0.0.1.ms
+host h-email.net_udp.local.https.sptth.721.0.0.1.ru
+host h-email.net_udp.local.https.sptth.721.0.0.1.gg
+host h-liame.ten_pdu.lacol.com
+host h-liame.ten_pdu.lacol.moc.com.1.0.0.721
+host h-liame.ten_pdu.lacol.moc.com.1.0.0.721.cc
+host h-liame.ten_pdu.lacol.moc.com.1.0.0.721.ru
+host h-liame.ten_pdu.lacol.moc.com.1.0.0.721.gg
+host h-liame.ten_pdu.lacol.moc.com.1.0.0.721.lan
+host h-liame.ten_pdu.lacol.moc.com.1.0.0.721.nal
+host h-liame.ten_pdu.lacol.moc.com.1.0.0.721.com
+host h-liame.ten_pdu.lacol.moc.com.443.1.0.0.721.
+host h-liame.ten_pdu.lacol.moc.com.443.1.0.0.721.cc
+host h-liame.ten_pdu.lacol.moc.com.344.1.0.0.721.cc
+host h-liame.ten_pdu.lacol.moc.com.344.1.0.0.721.gg
+host h-liame.ten_pdu.lacol.moc.com.344.1.0.0.721.ru
+host 5.39.26.161
+host 161.5.39.26
+host iaea.org
+host 2606:4700:10::6814:240
+host 0.4.2.0.4.1.8.6.0.0.0.0.0.0.0.0.0.0.0.0.0.1.0.0.0.0.7.4.6.0.6.2.ip6.arpa.edu
+host 0.4.2.0.4.1.8.6.0.0.0.0.0.0.0.0.0.0.0.0.0.1.0.0.0.0.7.4.6.0.6.2.ip6.arpa.org
+host 0.4.2.0.4.1.8.6.0.0.0.0.0.0.0.0.0.0.0.0.0.1.0.0.0.0.7.4.6.0.6.2.ip6.arpa.edu.edu
+host 2600:3c01::2000:3aff:feb3:2e94\
+
+host 4.9.e.2.3.b.e.f.f.f.a.3.0.0.0.2.0.0.0.0.0.0.0.0.1.0.c.3.0.0.6.2.ip6.arpa.org
+/usr/sbin/BootCacheControl ; exit;
+/usr/sbin/dsenableroot ; exit;
+/usr/sbin/firmwarepasswd ; exit;
+sudo lsof -i -P -n
+ps -p 981 -o comm=
+ps -p 984 -o comm=
+ps -p 1432 -o comm=
+ps -p 898 -o comm=
+ps -p 877 -o comm=
+ps -p 863 -o comm=
+ps -p 704 -o comm=
+ps -p 698 -o comm=
+ps -p 694 -o comm=
+ps -p 618 -o comm=
+ps -p 1 -o comm=
+lsof | grep "AppleCamera"
+lsof | grep "Cam"
+lsof | grep "Camera"
+lsof | grep "mac"
+lsof | grep "VDC"
+host >uslax1-vip-fx-107.b.aaplimg.com
+host -v uslax1-vip-fx-107.b.aaplimg.com
+host dnscontact.apple.com
+host tcatnocsnd.elppa.com
+host 17.57.144.118
+host 144.17.57.118
+host 57.144.17.118
+host 118.144.57.17
+host 118.144.57.17:5223.cc
+host 118.144.57.17:5223.gg
+host 118.144.57.17:5223.mx
+host 118.144.57.17:5223.ms
+host 118.144.57.17:5223.edu
+host 118.144.57.17:5223.edu.edu
+diskutil list
+who
+netstat -at | grep ssh
+netstat -at | grep zsh
+netstat -at | grep sh
+netstat -at
+log show --predicate 'process == "sshd"' --last 24h
+log show --predicate 'process == "identityd"' --last 24h
+log show --predicate 'process == "com.apple.net.rvi_control "' --last 24h
+lsf -c AppleCamera
+lsof -c AppleCamera
+host oeis.us
+host acelegal.com
+host 35.41.70.185
+host 35.185.41.70
+host 70.41.185.35.bc.googleusercontent.com.
+whois  35.185.41.70
+host 35.41.70.185
+host fdea:8e76:72d4::2.49403<->fdea:8e76:72d4::1.56151 
+host fdea:8e76:72d4::2
+whois 2.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.4.d.2.7.6.7.e.8.a.e.d.f.ip6.arpa
+whois 2.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.4.d.2.7.6.7.e.8.a.e.d.f.ip6.arpa.org
+whois 2.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.4.d.2.7.6.7.e.8.a.e.d.f.ip6.arpa.net
+whois 2.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.4.d.2.7.6.7.e.8.a.e.d.f.ip6.arpa.com
+whois 2.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.4.d.2.7.6.7.e.8.a.e.d.f.ip6.arpa.edu
+whois 2.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.4.d.2.7.6.7.e.8.a.e.d.f.ip6.arpa.edu.edu
+whois 2.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.4.d.2.7.6.7.e.8.a.e.d.f.ip6.arpa.edu.edu.cc
+whois 2.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.4.d.2.7.6.7.e.8.a.e.d.f.ip6.cc
+whois ccwhois.verisign-grs.com
+whois iana.org
+host ccwhois.verisign-grs.com
+host iana.org
+host pechora1.icann.org.
+whois pechora1.icann.org.
+whois pechora1.icann.org.cc
+whois pechora1.icann.org.org
+whois pechora1.icann.gro.org
+host 146.75.95.6
+host 6.95.75.146
+host 95.146.75.6
+host 75.95.146.6
+host 75.6.95.146
+host 95.75.6.146
+host 17.248.188.114:443   
+host 17.248.188.114
+host 114.17.248.188
+host syn-104-035-230-132.res.spectrum.com
+host 104.35.230.132
+host 35.230.132.104
+host 104.132.230.35.bc.googleusercontent.com.
+host googleusercontent.com
+host 142.251.210.129
+host 1e100.net
+host 1e100.com
+host 1e100.org
+host 1e100.tech
+host 1e100.edu
+host 1e100.edu.edu
+host 1e100.com.com
+host lkml.org
+host 137.116.191.0
+traceroute 137.116.191.0
+Bash\
+systemextensionsctl list
+log stream --predicate 'subsystem contains "racoon"'
+host 72.129.19.225
+host 225.19.129.72
+host 19.72.129.225
+host rr.com
+host -h
+host -v licensed-investigator.com
+host nslookup.io
+host -v 188.114.96.0
+dig -x 188.114.96.0
+host aaplimg.com
+host aaplimg.net
+host aaplimg.com
+host aaplimg.com.com
+host aaplimg.com.com
+host jsgfirm.com
+host gro.org
+host silentharbor.io
+host epis.us
+host 2606:4700:3037::6815:2eab
+host hcet.tech
+host 2600:1901:0:84ef::
+host moc.com
+host ten.net
+host ude.edu
+host ude.edu.cc
+host ude.edu.ru
+host ude.edu.gg
+host ude.edu.ms
+host ude.edu.io
+host ude.edu.ai
+host ude.edu.edu
+host net.net
+host com.com
+host org.org
+host 108.215.213.143
+host sf.daserver.org.
+host 615321.parkingcrew.net
+host 104.26.4.148
+host identity.digital
+host 1.211.202.198
+host cc.cc
+host cc.cc.cc
+most m.cc.cc
+host m.cc.cc
+host sf.daserver.org.cc
+host sf.daserver.org.ru
+host sf.daserver.org.gg
+host sf.daserver.org.org
+host sf.daserver.org.com
+host 50.16.218.27
+host 0.0.0.0.
+host ec2-50-16-218-27.compute-1.amazonaws.com.
+host ec2-50-16-218-27.compute-1.amazonaws.com.com
+host ec2-50-16-218-27.compute-1.amazonaws.com.cc
+host ec2-50-16-218-27.compute-1.amazonaws.com.da
+host ec2-50-16-218-27.compute-1.amazonaws.com.ae
+host ec2-50-16-218-27.compute-1.amazonaws.com.ea
+host ec2-50-16-218-27.compute-1.amazonaws.com.ru
+host ec2-50-16-218-27.compute-1.amazonaws.com.in
+host ec2-50-16-218-27.compute-1.amazonaws.com.io
+host ::ffff:0.0.0.0
+host 0.0.0.0.0.0.0.0.f.f.f.f.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.ip6.arpa.net
+host 0.0.0.0.0.0.0.0.f.f.f.f.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.ip6.arpa.org
+host 0.0.0.0.0.0.0.0.f.f.f.f.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.ip6.arpa.com
+host 0.0.0.0.0.0.0.0.f.f.f.f.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.ip6.arpa.gro.org
+host 0.0.0.0.0.0.0.0.f.f.f.f.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.ip6.arpa.edu
+whois 0.0.0.0.0.0.0.0.f.f.f.f.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.ip6.arpa.gro.org
+whois 0.0.0.0.0.0.0.0.f.f.f.f.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.ip6.arpa.com
+whois 0.0.0.0.0.0.0.0.f.f.f.f.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.ip6.arpa.com.cc
+whois 0.0.0.0.0.0.0.0.f.f.f.f.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.ip6.arpa.com.org
+whois 0.0.0.0.0.0.0.0.f.f.f.f.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.ip6.arpa.org
+scutil --proxy
+host developer.apple.com
+host 2620:149:a21:f000::137
+host aaplimg.com.
+host aaplimg.com
+sudo lsof /etc/ssl/certs/ca-certificates.crt
+/etc/pki/tls/certs/ca-bundle.crt
+host overdue.aalyria.com
+host overdue.alyria.com
+host overdue.alyria.net
+host overdue.aliyun.com
+log show --predicate 'process == "kernel"' | grep -i "exclave"
+ystem_profiler SPPCIDataType | grep -A 10 "Vendor ID:
+system_profiler SPPCIDataType | grep -A 10 "Vendor ID:\
+
+system_profiler SPPCIDataType | grep -A 10 "Vendor ID:"
+system_profiler | grep "Vendor ID:"
+system_profiler
+host 47.193.248.17
+host 17.248.193.47
+host 248.47.193.17
+/etc/pki/tls/certs/ca-bundle.crt
+host 17.248.193.47
+whois 17.248.193.47
+curl https://ip-geolocation.apple.com
+host ip-geolocation.apple.com
+host pi-noitacoloeg.elppa.com
+host pi-noitacoloeg.elppa.moc.com
+host pi-noitacoloeg.elppa.moc.comsudo lsof -i -nP | grep 17.248.193.47
+sudo lsof -i -nP | grep 17.248.193.47
+sudo lsof -i -nP
+ping 192.168.1.227
+host 142.250.141.109
+host dd-in-f109.1e100.net.
+host dd-in-f109.1e100.net.net
+host dd-in-f109.1e100.net.cc
+host dd-in-f109.1e100.net.qq
+host dd-in-f109.1e100.net.dd
+traceroute spectrum.com
+security find-certificate -a -p /System/Library/Keychains/SystemRootCertificates.keychain
+host jsgfirm.com
+shasum -a 256 ~/Desktop/"Screenshot 2026-04-17 at 16.56.01.png"
+shasum 256 ~/Desktop/"Screenshot 2026-04-17 at 16.56.01.png"
+sha256 ~/Desktop/"Screenshot 2026-04-17 at 16.56.01.png"
+sha256 -a ~/Desktop/"Screenshot 2026-04-17 at 16.56.01.png"
+sha256 --a ~/Desktop/"Screenshot 2026-04-17 at 16.56.01.png"
+sha256 -- a ~/Desktop/"Screenshot 2026-04-17 at 16.56.01.png"
+ls
+sha256 -- a "network_log.txt"
+sha256 -- a ~/Desktop/"Screenshot 2026-04-17 at 16.56.01.png"
+cd desktop
+ls
+sha256 -- a "Screenshot 2026-04-17 at 17.07.47.png"
+host 185-70-42-37.protonmail.ch.https
+host 185-70-42-37.protonmail.ch.https.app
+host 185-70-42-37.protonmail.ch.https.cc
+host tx.https.cc.app
+host tx.https.cc
+host 122.51.213.185
+host c.7.7.0.3.3.f.f.1.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.2.0.f.f.ip6.arpa.com
+host c.7.7.0.3.3.f.f.1.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.2.0.f.f.ip6.arpa.net
+host c770:33eff:f626:ecb::8
+host c770:33eff:f626:ecb::8ef
+host c770:33eff:f626:ecb::08ef
+host c770:33eff:f626:ecb::08ef.cc
+host c770:33eff:f626:ecb::08ef.ms
+host c770:33eff:f626:ecb::08ef.mx
+host c770:33eff:f626:ecb::08ef.ru
+host c770:33eff:f626:ecb::08ef.htptps.cc
+host c770:33eff:f626:ecb::08ef.https.cc
+host c770:33eff:f626:ecb::08ef.https.app
+host c770:33eff:f626:ecb::08ef.app
+host c770:33eff:f626:ecb::08ef.gg
+host c770:33eff:f626:ecb::08ef.io
+host c770:33eff:f626:ecb::08ef.domain
+host c770:33eff:f626:ecb::08ef.identity.digital
+host c770:33eff:f626:ecb::08ef.com
+host c770:33eff:f626:ecb::08ef.edu.edu
+ping 192.168.1.255
+host a.4.3.f.c.c.2.0.3.6.2.0.0.b.0.0.4.d.d.2.c.0.4.6.5.0.a.0.2.0.0.2.ip6.arpa.com
+host *.arpa.net
+host arpa.net
+host SRI-NIC.arpa.net
+host SRI-NIC.arpa.net.app
+host bs.sb
+whois champire.com
+host 
+host NS1.SEDOPARKING.COM
+3.130.216.63
+host 3.130.216.63
+arp -a
+arp -a
+arp -a
+arp -ad
+arp -a
+bundle list
+instruments -s devices
+rvictl 
+rvi
+udo nano /etc/path
+sudo nano /etc/paths
+cd /etc
+ls
+sudo nano sudo_lecture
+cat mail.conf
+cat mail.rc
+cat asl.conf
+cat bootpd.conf
+cat bootpd.plist
+host networksharing.apple.com
+host networksharing.apple.com.cc
+host networksharing.apple.com.app
+host networksharing.apple.com.https.cc
+host networksharing.apple.com.https.app
+host gnirahskrowten.elppa.com
+host gnirahskrowten.cc
+host gnirahskrowten.com
+host apple.networksharing.com
+host apple.networksharing.net
+host apple.networksharing.app
+host apple.networksharing.cc
+host apple.networksharing.sb
+host sharklasers.com
+host mail.guerrillamail.com.
+host 178.162.170.166
+host 170.178.162.166
+host 166.170.178.166
+host divert-flow.com
+host apple.divert-flow.com
+instruments -s devicessudo 
+sudo nano localtime
+bundle list | grep skylight
+bundle list
+skylight gem
+host ladetectives.com
+host ladetectives.org
+host mcmcg.com
+host domaincontrol.com
+clear
+host domaincontrol.com
+host e.licensed-investigator.com
+host tfosorcim.com
+host 127.0.0.1
+show version\
+
+stat
+defaults read /System/Library/PrivateFrameworks/SkyLight.framework/Resources/Info.plist CFBundleShortVersionString\
+
+codesign -vv /System/Library/PrivateFrameworks/SkyLight.framework\
+
+codsoftwareupdate --verify\
+
+softwareupdate --verify\
+
+softwareupdate --verify\
+
+softwareupdate --verify
+host framework.app
+host krowemarf.app
+host krowemarf.com
+host krowemarf.cc
+host krowemarf.ms
+host krowemarf.tech
+host krowemarf.ru
+host krowemarf.tx
+host krowemarf.sb
+host gandi.net.sb
+host gandi.net.bs.sb
+host gandi.net.cc
+host gandi.net.app
+host fb.mail.gandi.net.
+host gandi.net
+host host mail12.gandi.net.
+host mail12.gandi.net
+host mail8.gandi.net.
+host 2001:4b98:dc2:90:217:70:186:186
+whois 2001:4b98:dc2:90:217:70:186:186
+whois kimbradford.com
+host privatewho.is
+host 192.0.78.25
+host 192.0.78.24
+traceroute gandi.net
+log stream --predicate 'subsystem == "com.apple.locationd"' --info
+bew.com
+host bew.com
+host authorize.net
+host asiv.com
+sudo tcpdump -i eth0 'icmp or udp port 33434-33534' -ttt -v --print > hops_metadata.txt &
+sudo tcpdump -i eth0 'icmp or udp port 33434-33534' -ttt -v --print > hops_metadata.txt &
+sudo tcpdump -i eth0 'icmp or udp port 33434-33534' -ttt -v
+sudo tcpdump -i eth0 'icmp or udp port 33434-33534' -ttt -v
+sudo tcpdump -i eth0 'icmp or udp port 33434-33534' -ttt -v
+# Monitor ALL outbound connections from the machine in real time\
+sudo tcpdump -i en0 'not src host 127.0.0.1 and tcp' -nn\
+\
+# Log ALL DNS lookups (catches hidden C2 domain resolutions)\
+sudo tcpdump -i en0 port 53 -nn -l | tee ~/Desktop/dns_log.txt\
+\
+# Check what processes have active internet connections RIGHT NOW\
+lsof -i -P -n | grep ESTABLISHED\
+\
+# See if ollama binary itself is making any unexpected connections\
+lsof -p $(pgrep ollama) -i
+# List all loaded models\
+curl http://localhost:11434/api/ps\
+\
+# List all downloaded models\
+curl http://localhost:11434/api/tags\
+\
+# Check ollama logs on macOS\
+cat ~/.ollama/logs/server.log\
+tail -f ~/.ollama/logs/server.log
+cat ~/.ollama/logs/server.log
+# This is a critical check  ? if it says 0.0.0.0 that means EVERY device\
+# on your network can reach your Ollama instance with no authentication\
+lsof -nP -iTCP:11434 | grep LISTEN
+lsof -nP -iTCP:11434
+lsof -nP -iTCP:11434 | grep LISTEN
+netstat
+netstat -an
+sudo tcpdump -X -r -w desktop_download_capture_file.pcap
+sudo tcpdump -X -r desktop_download_capture_file.pcap
+sudo tcpdump -X -r
+sudo tcpdump -X -r all
+sudo tcpdump -X -r any
+sudo tcpdump any -X -r
+sudo tcpdump any -r
+sudo tcpdump  -r
+system_profiler
+sha256 "R-FIRM-UE_Boom.mov"
+sha256 "/Desktop/R-FIRM-UE_Boom.mov"
+sha256 "/Desktop/R-FIRM-UE_Boom.mov"
+cd Desktop
+sha256 "R-FIRM-UE_Boom.mov"
+ls
+sha256 "Screenshot 2026-04-20 at 21.04.26.png"
+sudo npm root ollama 
+host apple.webkit.online
+traceroute apple.webkit.online
+host
+host apresolve.spotify.com
+host 35.186.224.24
+host 2600:1901:1:7c5::\
+
+host yfitops.com
+host https://open.spotify.com/track/3W8yX8AD0H7fc3ArbK3aKu?si=a014167bd2d74e04
+curl https://open.spotify.com/track/3W8yX8AD0H7fc3ArbK3aKu?si=a014167bd2d74e04
+curl https://open.spotify.com/track/3W8yX8AD0H7fc3ArbK3aKu?si=a014167bd2d74e04:443
+host open.spotify.com
+host 2a04:4e42:11::810
+host 146.75.95.42\
+
+host apple.webkit.online
+host paramountinvestigativeservices.com
+host parkingcrew.net
+host parkingcrew.com
+clear
+traceroute apple.webkit.online
+host currentavailablelimit.com
+host currentavailablelimit.cc
+host currentavailablelimit.app
+host timilelbaliavatnerruc.com
+host apple.webkit.com
+host apple.webkit.cc
+host apple.webkit.sb
+host apple.webkit.online
+whois apple.webkit.online
+host TRS-DNS.INFO
+host radix.email
+host ns3.afternic.com
+host afternic.com
+host com.apple.wifimanager.online
+host com.apple.wifimanager.cc
+host com.apple.wifimanager.com
+host com.apple.wifimanager.net
+host e.licensed-investigator.com
+host xoc.com
+host xoc.cc
+host xoc.online
+host licensed-investigator.online
+host coreaudio.online
+host bluetooth.online
+host bluetoothd.online
+host webkit.online
+host halaudiodevice.com
+host halaudiodevice.online
+host halaudiodevice.xyz
+host halaudiodevice.ai
+host halaudiodevice.ai
+host apple.webkit.ai
+host halaudiodevice.online.ai
+host appple.webkit.online.ai
+host ikp.goog
+host ikp.goog
+host pki.goog
+host 216.239.32.29
+host pop.licensed-investigator.com
+host autodiscover.licensed-investigator.com
+host autodiscovery.licensed-investigator.com
+host autodiscovery.licensed-investigator.com.online.ai
+host autodiscovery.licensed-investigator.com.online
+host licensed-investigator.com.online.ai
+host licensed-investigator.com.ai
+host licensed-investigator.ai
+host licensed-investigator.sb.ai
+host 208.98.43.17
+host licensed-investigator.com.info
+host licensed-investigator.com.online.info
+host licensed-investigator.com.online.xyz
+host licensed-investigator.com.online.
+host licensed-investigator.com.online.ai
+host clea
+clear
+host licensed-investigator.com.online.ai
+host licensed-investigator.com.online
+host licensed-investigator.com.ai
+host licensed-investigator.net.ai
+host apple.webkit.online
+host com.apple.webkit.online
+host webkit.sb
+host webkit.online.sb
+host com.apple.webkit.online.sb
+host com.apple.webkit.online.ai.sb
+host com.apple.webkit.online.ai.bs.sb
+host com.apple.webkit.online.bs.sb
+host com.apple.webkit.bs.sb
+host com.apple.webkit.bs.sb
+host elppa.com.online.ai
+host trevid-wolf.elppa.com
+host icloud.com
+host duolci.com
+host duolci.com.online
+host elppa.online.ai
+615321.parkingcrew.net.... the blight of this city... <3 the future
+whois oeis.us
+host bs.sb
+whois bs.sb
+host xpc.com
+host cpx.com
+host api.hcaptcha.com
+host 104.19.230.21
+host 104.19.229.21
+host newassets.hcaptcha.com
+host pr.tn
+host 615321.parkingcrew.net
+host storage.proton.me
+host rp.tn
+host 5.33.186.213
+host proton.me
+host gandi.net
+host 2001:4b98:e03::42
+host mail.hvo.net
+host hvo.net
+host ovh.net
+host hvo.net.sb
+host hvo.net.com
+host hvo.net.net
+host clear
+host clear.com
+host ladetectives.com
+host 
+host host.ai
+host tsoh.host
+host stacybradford.host
+host stacydbradford.host
+host stacydbradford.host.ai
+host stacydbradford.ai
+host stacydbradford.online.ai
+host ladkjfldkajf.online.ai
+host come_ldkjf.online.ai
+host come_ldkjf_.online.ai
+host come_ldkjf_..online.ai
+host come_ldkjf_._.online.ai
+host come_ldkjf_-._.online.ai
+host com.online.ai
+host com.com.ai
+host com.com.io
+host ia.ai
+host smtp.google.com.
+clear
+sudo tcpdump 
+sudo tcpdump -i any -s 0 -XX -nn
+sudo tcpdump -i eth0
+sudo tcpdump -i en0
+sudo tcpdump -i en0 -s 0 -XX -nn
+nettop -lm
+sudo tcpdump -i en0 host localhost
+sudo tcpdump -i utun0 host localhost
+sudo tcpdump -i utun host localhost
+sudo tcpdump -i utun4 host localhost
+host cott@righthandlaw.net
+host scott@righthandlaw.net
+host righthandlaw.net
+host righthandlaw-net.mail.eo.outlook.com.
+host righthandlaw.com
+host righthandlaw.com
+host righthandlaw.comhost
+host tylercloud.com
+host tylertech.com
+host 3.234.168.131
+host 241.0.0.255
+host 241.0.0.251
+host trevid-flow.elppa.com
+sudo nano /etc/pf.anchors/com.block.amazon
+lsof -i :62285
+sudo lsof -i :62285
+host apple.itunescloudd.online
+host com.apple.itunescloudd.online
+host com.apple.itunescloudd.cc
+host com.apple.itunescloudd.ai
+host apple.itunescloudd.ai
+host apple.itunescloudd.host
+host apple.itunescloudd.host.cc
+hohos
+host apple.itunescloudd.sb
+host apple.itunescloudd.bs
+host apple.itunescloudd.bs.sb
+host apple.itunescloudd.jp
+host apple.itunescloudd.pj.jp
+host pj.jp
+host ne.jp
+host en.jp
+host en.pj.jp
+host mabookair.lan.ai
+host mabookair.lan.ai.sb
+host mabookair.lan.sb.ai
+host macbookair.lan.ai
+host macbookair.lan.ai.sb
+host macbookair.lan.sb
+host macbookair.lan.sb.ai
+cd ~
+ls
+cd /StacyBradford
+host macbookair.lan.cc
+host licensed-investigator.com
+host 104.21.69.68.ru
+host 172.67.206.8.sb
+curl https://uio.edd.ca.gov/UIO/Pages/Public/ExternalUser/UIOnlineLandingPage.aspx
+host uio.edd.ca.gov
+host 67.157.252.4
+host 4.252.157.67
+host 252.67.157.4
+host Host 4.157.67.252.in-addr.arpa.cc
+host Host 4.157.67.252.in-addr.arpa.sb
+host Host 4.157.67.252.in-addr.arpa.host
+host Host 4.157.67.252.in-addr.arpa.ai
+host Host 4.157.67.252.in-addr.arpa.org
+host Host 4.157.67.252.in-addr.arpa.net
+host 4.157.67.252.in-addr.arpa.net
+host 4.157.67.252.in-addr.arpa.org
+host licensed-investigator.com
+host 172.67.206.8.show
+host 172.67.206.8.show.cc
+host show.cc
+host 104.21.69.68.show
+host 104.21.69.68.show.ai
+host 104.21.69.68.show.ru
+host 104.21.69.68.ru
+host 195.19.220.45.show
+host 195.19.220.45.show.gg
+host 195.19.220.45.show.sb
+host show.sb
+cd /etc\
+sudo git init\
+sudo git remote add origin https://github.com/stacy-bradford/26PDRO00474.git
+cd /etc\
+sudo git init\
+sudo git remote add origin https://github.com/stacy-bradford/26PDRO00474.git
+stdin
+cd etc
+cd /etc
+ls
+cat man.conf
+cat pf.conf
+whois gtt.net
+host 38.32.58.45
+host licensed-investigator.com
+host 172.67.206.8.sb
+host 172.67.206.8.sb.ru
+host 172.67.206.8.sb.ru.io
+host courts.ca.gov
+host 23.185.0.2.io
+cd /Desktop
+cd desktop
+ls
+sha256 "Screenshot 2026-04-27 at 17.03.44.png"
+sha256 "Childs to courts.ca.gov hacking - Terminal Saved Output.txt"
+ls
+sha256 "3.139.159.151 | Columbus, AS16509, VPN Not Detected | IPinfo.pdf"
+host courts.ca.gov
+host 23.185.0.2.io
+traceroute 3.33.130.190
+traceroute 3.33.152.147
+host anthropic.com
+host local.lan
+host local.com
+host netbiosd.com
+host netbiosd.host
+host xpui.app.spotify.com
+host iupx.ppa.yfitops.com
+host electricamartinez.es
+host electrica-martinez.es
+host electricmartinez.es
+host ASPMX3.GOOGLE.EMAIL.com.
+whois sipe.com
+host eroomykceb.com
+host eroomykceb.net
+host eroomykceb.org
+host eroomykceb.org.org
+host eroomykceb.gro.org
+host gro.org
+host eroomykceb.host
+host eroomykceb.online
+host beckymoore.host
+host beckymoore.online
+host beckymoore.co.uk
+host beckymoore.ca
+host beckymoorepi.online
+host beckymoorepi.org
+host beckymoorepi.com
+host cartagottelecom.es
+host cartagotelecom.es
+host electronicamartinez.es
+host beckymoore.com
+curl https://electronicamartinez.es
+curl https://cartagotelecom.es
+host 217.18.168.169
+clear
+host electronicamartinez.es
+dig +trace electronicamartinez.es
+dig +trace cartagotelecom.es
+whois cartagotelecom.es
+clear
+whois cartagotelecom.es
+host beckymoorepi.com
+whois electronicamartinez.es
+traceroute electronicamartinez.es
+host godaddy.com
+traceroute beckymoorepi.com
+open "Terminal Saved Output - 1 - gtt.net - gtt.net.txt"
+cd desktop
+open "Terminal Saved Output - 1 - gtt.net - gtt.net.txt\
+"
+open "Terminal Saved Output - 1 - gtt.net - gtt.net.txt"
+traceroute licensed-investigator.com
+cd desktop
+ls
+open "Terminal Saved Output - 1 - gtt.net - licensed-investigator.com.txt"
+traceroute licensed-investigator.net
+cd desktop
+ls
+open "Terminal Saved Output - 1 - gtt.net - licensed-investigator.com.txt"
+host electronicalmartinez.es
+host electronicamartinez.es
+host beckymoore.com
+host ALT2.ASPMX.L.GOOGLE.COM.
+host ASPMX3.GOOGLE.EMAIL.com.
+host 4.1.84.232
+host 4.1.232.84
+host144.208.69.65
+host 144.208.69.65
+host cc3145.inmotionhosting.com.
+host inmotionhosting.com
+trac
+clear
+traceroute electronicamartinez.com
+traceroute beckymoore.com
+stacybradford@MacBookAir ~ % 
