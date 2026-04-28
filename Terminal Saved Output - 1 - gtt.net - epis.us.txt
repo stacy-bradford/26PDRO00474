@@ -1,0 +1,183 @@
+Last login: Tue Apr 28 10:40:58 on ttys139
+You have new mail.
+stacybradford@MacBookAir ~ % traceroute epis.us
+traceroute: Warning: epis.us has multiple addresses; using 104.21.46.171
+traceroute to epis.us (104.21.46.171), 64 hops max, 40 byte packets
+ 1  sbe1v1k (192.168.1.1)  5.262 ms  3.807 ms  3.992 ms
+ 2  syn-076-032-138-220.res.spectrum.com (76.32.138.220)  3.917 ms  4.071 ms  4.896 ms
+ 3  syn-076-032-138-220.res.spectrum.com (76.32.138.220)  24.384 ms  15.065 ms  17.591 ms
+ 4  * * *
+ 5  * syn-076-032-138-220.res.spectrum.com (76.32.138.220)  18.355 ms *
+ 6  syn-076-032-138-220.res.spectrum.com (76.32.138.220)  25.083 ms * *
+ 7  syn-076-032-138-220.res.spectrum.com (76.32.138.220)  21.724 ms  16.905 ms  17.265 ms
+ 8  * * *
+ 9  lag-63.rcr01tustcaft.netops.charter.com (76.167.29.184)  21.282 ms  15.026 ms  17.914 ms
+10  lag-56-10.tustca4200w-bcr00.netops.charter.com (66.109.10.10)  17.851 ms *
+    lag-46-10.tustca4200w-bcr00.netops.charter.com (209.18.43.72)  18.036 ms
+11  lag-1.pr2.lax10.netops.charter.com (66.109.5.241)  17.472 ms
+    lag-2.pr2.lax10.netops.charter.com (66.109.3.19)  20.194 ms  17.418 ms
+12  141.101.72.52 (141.101.72.52)  32.488 ms  18.242 ms  17.948 ms
+13  141.101.72.100 (141.101.72.100)  28.983 ms
+    141.101.72.81 (141.101.72.81)  21.470 ms
+    141.101.72.32 (141.101.72.32)  18.506 ms
+14  104.21.46.171 (104.21.46.171)  18.482 ms  19.586 ms  28.392 ms
+stacybradford@MacBookAir ~ % host epis.us
+epis.us has address 104.21.46.171
+epis.us has address 172.67.168.202
+epis.us has IPv6 address 2606:4700:3037::6815:2eab
+epis.us has IPv6 address 2606:4700:3033::ac43:a8ca
+epis.us mail is handled by 10 _dc-mx.0b8da9ead6e8.epis.us.
+stacybradford@MacBookAir ~ % host _dc-mx.0b8da9ead6e8.epis.us.
+_dc-mx.0b8da9ead6e8.epis.us has address 67.225.163.26
+stacybradford@MacBookAir ~ % host  67.225.163.26     
+
+26.163.225.67.in-addr.arpa domain name pointer host.findlocal-company.com.
+stacybradford@MacBookAir ~ % host findlocal-company.com
+findlocal-company.com has address 104.21.63.78
+findlocal-company.com has address 172.67.170.72
+findlocal-company.com has IPv6 address 2606:4700:3032::ac43:aa48
+findlocal-company.com has IPv6 address 2606:4700:3037::6815:3f4e
+findlocal-company.com mail is handled by 10 alt3.aspmx.l.google.com.
+findlocal-company.com mail is handled by 10 alt4.aspmx.l.google.com.
+findlocal-company.com mail is handled by 5 alt1.aspmx.l.google.com.
+findlocal-company.com mail is handled by 5 alt2.aspmx.l.google.com.
+findlocal-company.com mail is handled by 1 aspmx.l.google.com.
+stacybradford@MacBookAir ~ % host wolfesinvestigations.com
+wolfesinvestigations.com has address 172.67.195.163
+wolfesinvestigations.com has address 104.21.12.197
+wolfesinvestigations.com has IPv6 address 2606:4700:3035::ac43:c3a3
+wolfesinvestigations.com has IPv6 address 2606:4700:3036::6815:cc5
+wolfesinvestigations.com mail is handled by 10 mx1.improvmx.com.
+wolfesinvestigations.com mail is handled by 20 mx2.improvmx.com.
+stacybradford@MacBookAir ~ % host licensed-investigator.com
+licensed-investigator.com has address 104.21.69.68
+licensed-investigator.com has address 172.67.206.8
+licensed-investigator.com has IPv6 address 2606:4700:3031::ac43:ce08
+licensed-investigator.com has IPv6 address 2606:4700:3032::6815:4544
+licensed-investigator.com mail is handled by 10 aspmx2.googlemail.com.
+licensed-investigator.com mail is handled by 10 aspmx3.googlemail.com.
+licensed-investigator.com mail is handled by 5 alt1.aspmx.l.google.com.
+licensed-investigator.com mail is handled by 5 alt2.aspmx.l.google.com.
+licensed-investigator.com mail is handled by 1 aspmx.l.google.com.
+stacybradford@MacBookAir ~ % cd desktop
+stacybradford@MacBookAir desktop % ls
+166.199.141.69 | Los Angeles, AS7018, VPN Not Detected | IPinfo.pdf
+3.139.159.151 | Columbus, AS16509, VPN Not Detected | IPinfo.pdf
+79688211063__BC693EE9-135E-47C0-B0A7-1F12B7B3E274.HEIC.jpeg
+Attorney David Dart Queen - Pasadena, California - lawyers.bio.pdf
+ch100 copy.pdf
+ch100.pdf
+ch109 copy.pdf
+ch109.pdf
+ch110 copy.pdf
+ch110.pdf
+ch115.pdf
+ch130 copy.pdf
+ch130.pdf
+Childs to courts.ca.gov hacking - Terminal Saved Output.txt
+clets001 copy.pdf
+clets001.pdf
+cm010 copy.pdf
+cm010.pdf
+email 1 headers.pdf
+email 2 headers.pdf
+email 3 headers.pdf
+Forensic_Audit_20260422
+ft with thom - 04.24.26 - Terminal Saved Output.txt
+GTS Root R4.cer
+IMG_0227.mov
+kwcvsbd-sub-01.pdf
+LASC CIV 109 copy.pdf
+LASC CIV 109.pdf
+me and lb ft - Terminal Saved Output.txt
+Medical records requests | Kaiser Permanente.pdf
+pornhub
+Screenshot 2026-04-21 at 07.35.20.png
+Screenshot 2026-04-21 at 15.26.11.png
+Screenshot 2026-04-21 at 17.53.28.png
+Screenshot 2026-04-21 at 17.55.25.png
+Screenshot 2026-04-21 at 17.57.04.png
+Screenshot 2026-04-21 at 17.57.55.png
+Screenshot 2026-04-21 at 18.01.33.png
+Screenshot 2026-04-21 at 18.02.59.png
+Screenshot 2026-04-21 at 18.05.21.png
+Screenshot 2026-04-21 at 18.29.49.png
+Screenshot 2026-04-21 at 18.52.50.png
+Screenshot 2026-04-21 at 19.02.21.png
+Screenshot 2026-04-21 at 21.34.05.png
+Screenshot 2026-04-21 at 21.34.11.png
+Screenshot 2026-04-21 at 22.25.49.png
+Screenshot 2026-04-21 at 23.04.51.png
+Screenshot 2026-04-21 at 23.12.03.png
+Screenshot 2026-04-21 at 23.34.59.png
+Screenshot 2026-04-21 at 23.54.33.png
+Screenshot 2026-04-22 at 00.29.38.png
+Screenshot 2026-04-22 at 03.51.22.png
+Screenshot 2026-04-22 at 03.52.47.png
+Screenshot 2026-04-22 at 04.50.40.png
+Screenshot 2026-04-22 at 04.52.34.png
+Screenshot 2026-04-22 at 04.58.12.png
+Screenshot 2026-04-22 at 05.17.45.png
+Screenshot 2026-04-22 at 05.36.30.png
+Screenshot 2026-04-22 at 06.05.41.png
+Screenshot 2026-04-22 at 06.25.41.png
+Screenshot 2026-04-22 at 13.00.32.png
+Screenshot 2026-04-22 at 13.20.38.png
+Screenshot 2026-04-22 at 23.08.19.png
+Screenshot 2026-04-22 at 23.08.48.png
+Screenshot 2026-04-22 at 23.10.36.png
+Screenshot 2026-04-23 at 17.25.12.png
+Screenshot 2026-04-23 at 18.51.22.png
+Screenshot 2026-04-23 at 18.52.24.png
+Screenshot 2026-04-23 at 18.52.52.png
+Screenshot 2026-04-24 at 17.32.07.png
+Screenshot 2026-04-24 at 23.38.05.png
+Screenshot 2026-04-25 at 18.26.18.png
+Screenshot 2026-04-25 at 22.01.01.png
+Screenshot 2026-04-26 at 18.58.07.png
+Screenshot 2026-04-26 at 19.04.29.png
+Screenshot 2026-04-26 at 19.11.20.png
+Screenshot 2026-04-26 at 19.17.16.png
+Screenshot 2026-04-26 at 19.50.46.png
+Screenshot 2026-04-26 at 22.29.21.png
+Screenshot 2026-04-26 at 22.39.16.png
+Screenshot 2026-04-26 at 22.45.27.png
+Screenshot 2026-04-26 at 23.52.58.png
+Screenshot 2026-04-27 at 00.05.05.png
+Screenshot 2026-04-27 at 00.06.57.png
+Screenshot 2026-04-27 at 00.53.54.png
+Screenshot 2026-04-27 at 01.07.54.png
+Screenshot 2026-04-27 at 01.08.01.png
+Screenshot 2026-04-27 at 14.11.18.png
+Screenshot 2026-04-27 at 17.03.44.png
+Screenshot 2026-04-27 at 20.12.23.png
+Screenshot 2026-04-27 at 20.31.58.png
+Screenshot 2026-04-27 at 21.21.45.png
+Screenshot 2026-04-27 at 21.55.21.png
+Screenshot 2026-04-28 at 05.33.10.png
+Screenshot 2026-04-28 at 05.34.46.png
+Screenshot 2026-04-28 at 07.56.14.png
+Screenshot 2026-04-28 at 07.56.19.png
+Screenshot 2026-04-28 at 08.16.53.png
+Screenshot 2026-04-28 at 08.17.21.png
+Screenshot 2026-04-28 at 08.18.53.png
+Screenshot 2026-04-28 at 08.57.12.png
+Screenshot 2026-04-28 at 08.59.13.png
+Screenshot 2026-04-28 at 09.16.32.png
+Screenshot 2026-04-28 at 09.56.19.png
+Screenshot 2026-04-28 at 10.14.38.png
+Screenshot 2026-04-28 at 10.39.41.png
+Screenshot 2026-04-28 at 10.40.55.png
+Screenshot 2026-04-28 at 10.42.55.png
+Screenshot 2026-04-28 at 11.53.50.png
+skip_trace_kwc.pdf
+TERM-001.txt
+Terminal History - (has the unauthorized fortinet command (diag sniffer packet any 'host 192.168.1.10' 4 )) - Terminal Saved Output.txt
+Terminal Saved Output - 1 - gtt.net - 38.something.txt
+Terminal Saved Output - 1 - gtt.net - findmail.mil.sb.txt
+Terminal Saved Output - 1 - gtt.net - gtt.net.txt
+Terminal Saved Output - 1 - gtt.net - licensed-investigator.com.txt
+Terminal Saved Output - 2- traceroute abramgt.com.txt
+untitled folder
+Usage Analysis Summary.html
+stacybradford@MacBookAir desktop % 
