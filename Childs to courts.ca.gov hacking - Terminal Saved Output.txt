@@ -1,0 +1,64 @@
+Last login: Mon Apr 27 16:51:37 on ttys085
+You have new mail.
+stacybradford@MacBookAir ~ % host licensed-investigator.com
+licensed-investigator.com has address 104.21.69.68
+licensed-investigator.com has address 172.67.206.8
+licensed-investigator.com has IPv6 address 2606:4700:3031::ac43:ce08
+licensed-investigator.com has IPv6 address 2606:4700:3032::6815:4544
+licensed-investigator.com mail is handled by 10 aspmx2.googlemail.com.
+licensed-investigator.com mail is handled by 10 aspmx3.googlemail.com.
+licensed-investigator.com mail is handled by 5 alt1.aspmx.l.google.com.
+licensed-investigator.com mail is handled by 5 alt2.aspmx.l.google.com.
+licensed-investigator.com mail is handled by 1 aspmx.l.google.com.
+stacybradford@MacBookAir ~ % host 172.67.206.8.sb
+172.67.206.8.sb has address 149.129.105.204
+stacybradford@MacBookAir ~ % host 172.67.206.8.sb.ru
+172.67.206.8.sb.ru has address 185.148.39.50
+stacybradford@MacBookAir ~ % host 172.67.206.8.sb.ru.io
+172.67.206.8.sb.ru.io has address 3.139.159.151
+stacybradford@MacBookAir ~ % host courts.ca.gov
+courts.ca.gov has address 23.185.0.2
+courts.ca.gov has IPv6 address 2620:12a:8001::2
+courts.ca.gov has IPv6 address 2620:12a:8000::2
+courts.ca.gov mail is handled by 10 mail.cjn.courts.ca.gov.
+stacybradford@MacBookAir ~ % host 23.185.0.2.io
+23.185.0.2.io has address 3.139.159.151
+stacybradford@MacBookAir ~ %  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
