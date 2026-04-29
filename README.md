@@ -22,4 +22,16 @@ email headers?
 
 loom/video/pics/etc post send nonimmutability
 
+Playing on with 26PDRO00474 as an anathamaic contrast to frivolous filings
+- wants to make it about proximity?
+- - TX Battery equation
+  - - ~3-5 miles away from connected tower?
+    - - the building is a tower one believes
+      - - also - isn't there a tower on average every 8 miles in this country?  Has to be denser in LA.
+        - -  Got potential tower/spoofing/stingray?
+    - ~17 feet from pineapple?
+   
 
+242
+  
+    
