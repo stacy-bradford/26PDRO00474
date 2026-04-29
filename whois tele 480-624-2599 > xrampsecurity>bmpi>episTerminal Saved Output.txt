@@ -1,0 +1,1115 @@
+Last login: Wed Apr 29 02:32:19 on ttys160
+You have mail.
+stacybradford@MacBookAir ~ % whois yfitops.com
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+refer:        whois.verisign-grs.com
+
+domain:       COM
+
+organisation: VeriSign Global Registry Services
+address:      12061 Bluemont Way
+address:      Reston VA 20190
+address:      United States of America (the)
+
+contact:      administrative
+name:         Registry Customer Service
+organisation: VeriSign Global Registry Services
+address:      12061 Bluemont Way
+address:      Reston VA 20190
+address:      United States of America (the)
+phone:        +1 703 925-6999
+fax-no:       +1 703 948 3978
+e-mail:       info@verisign-grs.com
+
+contact:      technical
+name:         Registry Customer Service
+organisation: VeriSign Global Registry Services
+address:      12061 Bluemont Way
+address:      Reston VA 20190
+address:      United States of America (the)
+phone:        +1 703 925-6999
+fax-no:       +1 703 948 3978
+e-mail:       info@verisign-grs.com
+
+nserver:      A.GTLD-SERVERS.NET 192.5.6.30 2001:503:a83e:0:0:0:2:30
+nserver:      B.GTLD-SERVERS.NET 192.33.14.30 2001:503:231d:0:0:0:2:30
+nserver:      C.GTLD-SERVERS.NET 192.26.92.30 2001:503:83eb:0:0:0:0:30
+nserver:      D.GTLD-SERVERS.NET 192.31.80.30 2001:500:856e:0:0:0:0:30
+nserver:      E.GTLD-SERVERS.NET 192.12.94.30 2001:502:1ca1:0:0:0:0:30
+nserver:      F.GTLD-SERVERS.NET 192.35.51.30 2001:503:d414:0:0:0:0:30
+nserver:      G.GTLD-SERVERS.NET 192.42.93.30 2001:503:eea3:0:0:0:0:30
+nserver:      H.GTLD-SERVERS.NET 192.54.112.30 2001:502:8cc:0:0:0:0:30
+nserver:      I.GTLD-SERVERS.NET 192.43.172.30 2001:503:39c1:0:0:0:0:30
+nserver:      J.GTLD-SERVERS.NET 192.48.79.30 2001:502:7094:0:0:0:0:30
+nserver:      K.GTLD-SERVERS.NET 192.52.178.30 2001:503:d2d:0:0:0:0:30
+nserver:      L.GTLD-SERVERS.NET 192.41.162.30 2001:500:d937:0:0:0:0:30
+nserver:      M.GTLD-SERVERS.NET 192.55.83.30 2001:501:b1f9:0:0:0:0:30
+ds-rdata:     19718 13 2 8acbb0cd28f41250a80a491389424d341522d946b0da0c0291f2d3d771d7805a
+
+whois:        whois.verisign-grs.com
+
+status:       ACTIVE
+remarks:      Registration information: http://www.verisigninc.com
+
+created:      1985-01-01
+changed:      2026-03-10
+source:       IANA
+
+# whois.verisign-grs.com
+
+   Domain Name: YFITOPS.COM
+   Registry Domain ID: 2115450079_DOMAIN_COM-VRSN
+   Registrar WHOIS Server: whois.godaddy.com
+   Registrar URL: http://www.godaddy.com
+   Updated Date: 2025-04-25T17:42:25Z
+   Creation Date: 2017-04-18T14:12:43Z
+   Registry Expiry Date: 2027-04-18T14:12:43Z
+   Registrar: GoDaddy.com, LLC
+   Registrar IANA ID: 146
+   Registrar Abuse Contact Email: abuse@godaddy.com
+   Registrar Abuse Contact Phone: 480-624-2505
+   Domain Status: clientDeleteProhibited https://icann.org/epp#clientDeleteProhibited
+   Domain Status: clientRenewProhibited https://icann.org/epp#clientRenewProhibited
+   Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+   Domain Status: clientUpdateProhibited https://icann.org/epp#clientUpdateProhibited
+   Name Server: NS3.AFTERNIC.COM
+   Name Server: NS4.AFTERNIC.COM
+   DNSSEC: unsigned
+   URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of whois database: 2026-04-29T09:33:58Z <<<
+
+# whois.godaddy.com
+
+Domain Name: yfitops.com
+Registry Domain ID: 2115450079_DOMAIN_COM-VRSN
+Registrar WHOIS Server: whois.godaddy.com
+Registrar URL: https://www.godaddy.com
+Updated Date: 2025-04-06T07:50:08Z
+Creation Date: 2017-04-18T09:12:43Z
+Registrar Registration Expiration Date: 2027-04-18T09:12:43Z
+Registrar: GoDaddy.com, LLC
+Registrar IANA ID: 146
+Registrar Abuse Contact Email: abuse@godaddy.com
+Registrar Abuse Contact Phone: +1.4806242505
+Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+Domain Status: clientUpdateProhibited https://icann.org/epp#clientUpdateProhibited
+Domain Status: clientRenewProhibited https://icann.org/epp#clientRenewProhibited
+Domain Status: clientDeleteProhibited https://icann.org/epp#clientDeleteProhibited
+Registry Registrant ID: Not Available From Registry
+Registrant Name: Registration Private
+Registrant Organization: Domains By Proxy, LLC
+Registrant Street: DomainsByProxy.com
+Registrant Street: 100 S. Mill Ave, Suite 1600
+Registrant City: Tempe
+Registrant State/Province: Arizona
+Registrant Postal Code: 85281
+Registrant Country: US
+Registrant Phone: +1.4806242599
+Registrant Phone Ext:
+Registrant Fax: 
+Registrant Fax Ext:
+Registrant Email: https://www.godaddy.com/whois/results.aspx?domain=yfitops.com&action=contactDomainOwner
+Registry Tech ID: Not Available From Registry
+Tech Name: Registration Private
+Tech Organization: Domains By Proxy, LLC
+Tech Street: DomainsByProxy.com
+Tech Street: 100 S. Mill Ave, Suite 1600
+Tech City: Tempe
+Tech State/Province: Arizona
+Tech Postal Code: 85281
+Tech Country: US
+Tech Phone: +1.4806242599
+Tech Phone Ext:
+Tech Fax: 
+Tech Fax Ext:
+Tech Email: https://www.godaddy.com/whois/results.aspx?domain=yfitops.com&action=contactDomainOwner
+Name Server: NS3.AFTERNIC.COM
+Name Server: NS4.AFTERNIC.COM
+DNSSEC: unsigned
+URL of the ICANN WHOIS Data Problem Reporting System: http://wdprs.internic.net/
+>>> Last update of WHOIS database: 2026-04-29T09:34:20Z <<<
+
+stacybradford@MacBookAir ~ % whois beckymoorepi.com
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+refer:        whois.verisign-grs.com
+
+domain:       COM
+
+organisation: VeriSign Global Registry Services
+address:      12061 Bluemont Way
+address:      Reston VA 20190
+address:      United States of America (the)
+
+contact:      administrative
+name:         Registry Customer Service
+organisation: VeriSign Global Registry Services
+address:      12061 Bluemont Way
+address:      Reston VA 20190
+address:      United States of America (the)
+phone:        +1 703 925-6999
+fax-no:       +1 703 948 3978
+e-mail:       info@verisign-grs.com
+
+contact:      technical
+name:         Registry Customer Service
+organisation: VeriSign Global Registry Services
+address:      12061 Bluemont Way
+address:      Reston VA 20190
+address:      United States of America (the)
+phone:        +1 703 925-6999
+fax-no:       +1 703 948 3978
+e-mail:       info@verisign-grs.com
+
+nserver:      A.GTLD-SERVERS.NET 192.5.6.30 2001:503:a83e:0:0:0:2:30
+nserver:      B.GTLD-SERVERS.NET 192.33.14.30 2001:503:231d:0:0:0:2:30
+nserver:      C.GTLD-SERVERS.NET 192.26.92.30 2001:503:83eb:0:0:0:0:30
+nserver:      D.GTLD-SERVERS.NET 192.31.80.30 2001:500:856e:0:0:0:0:30
+nserver:      E.GTLD-SERVERS.NET 192.12.94.30 2001:502:1ca1:0:0:0:0:30
+nserver:      F.GTLD-SERVERS.NET 192.35.51.30 2001:503:d414:0:0:0:0:30
+nserver:      G.GTLD-SERVERS.NET 192.42.93.30 2001:503:eea3:0:0:0:0:30
+nserver:      H.GTLD-SERVERS.NET 192.54.112.30 2001:502:8cc:0:0:0:0:30
+nserver:      I.GTLD-SERVERS.NET 192.43.172.30 2001:503:39c1:0:0:0:0:30
+nserver:      J.GTLD-SERVERS.NET 192.48.79.30 2001:502:7094:0:0:0:0:30
+nserver:      K.GTLD-SERVERS.NET 192.52.178.30 2001:503:d2d:0:0:0:0:30
+nserver:      L.GTLD-SERVERS.NET 192.41.162.30 2001:500:d937:0:0:0:0:30
+nserver:      M.GTLD-SERVERS.NET 192.55.83.30 2001:501:b1f9:0:0:0:0:30
+ds-rdata:     19718 13 2 8acbb0cd28f41250a80a491389424d341522d946b0da0c0291f2d3d771d7805a
+
+whois:        whois.verisign-grs.com
+
+status:       ACTIVE
+remarks:      Registration information: http://www.verisigninc.com
+
+created:      1985-01-01
+changed:      2026-03-10
+source:       IANA
+
+# whois.verisign-grs.com
+
+   Domain Name: BECKYMOOREPI.COM
+   Registry Domain ID: 1900143679_DOMAIN_COM-VRSN
+   Registrar WHOIS Server: whois.godaddy.com
+   Registrar URL: http://www.godaddy.com
+   Updated Date: 2024-09-03T18:13:46Z
+   Creation Date: 2015-02-02T18:26:29Z
+   Registry Expiry Date: 2026-09-24T11:59:59Z
+   Registrar: GoDaddy.com, LLC
+   Registrar IANA ID: 146
+   Registrar Abuse Contact Email: abuse@godaddy.com
+   Registrar Abuse Contact Phone: 480-624-2505
+   Domain Status: clientDeleteProhibited https://icann.org/epp#clientDeleteProhibited
+   Domain Status: clientRenewProhibited https://icann.org/epp#clientRenewProhibited
+   Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+   Domain Status: clientUpdateProhibited https://icann.org/epp#clientUpdateProhibited
+   Name Server: NS57.DOMAINCONTROL.COM
+   Name Server: NS58.DOMAINCONTROL.COM
+   DNSSEC: unsigned
+   URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of whois database: 2026-04-29T09:35:00Z <<<
+
+# whois.godaddy.com
+
+Domain Name: BECKYMOOREPI.COM
+Registry Domain ID: 1900143679_DOMAIN_COM-VRSN
+Registrar WHOIS Server: whois.godaddy.com
+Registrar URL: https://www.godaddy.com
+Updated Date: 2024-09-03T13:13:45Z
+Creation Date: 2015-02-02T13:26:29Z
+Registrar Registration Expiration Date: 2026-09-24T06:59:59Z
+Registrar: GoDaddy.com, LLC
+Registrar IANA ID: 146
+Registrar Abuse Contact Email: abuse@godaddy.com
+Registrar Abuse Contact Phone: +1.4806242505
+Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+Domain Status: clientUpdateProhibited https://icann.org/epp#clientUpdateProhibited
+Domain Status: clientRenewProhibited https://icann.org/epp#clientRenewProhibited
+Domain Status: clientDeleteProhibited https://icann.org/epp#clientDeleteProhibited
+Registry Registrant ID: Not Available From Registry
+Registrant Name: Registration Private
+Registrant Organization: Domains By Proxy, LLC
+Registrant Street: DomainsByProxy.com
+Registrant Street: 100 S. Mill Ave, Suite 1600
+Registrant City: Tempe
+Registrant State/Province: Arizona
+Registrant Postal Code: 85281
+Registrant Country: US
+Registrant Phone: +1.4806242599
+Registrant Phone Ext:
+Registrant Fax: 
+Registrant Fax Ext:
+Registrant Email: https://www.godaddy.com/whois/results.aspx?domain=BECKYMOOREPI.COM&action=contactDomainOwner
+Registry Tech ID: Not Available From Registry
+Tech Name: Registration Private
+Tech Organization: Domains By Proxy, LLC
+Tech Street: DomainsByProxy.com
+Tech Street: 100 S. Mill Ave, Suite 1600
+Tech City: Tempe
+Tech State/Province: Arizona
+Tech Postal Code: 85281
+Tech Country: US
+Tech Phone: +1.4806242599
+Tech Phone Ext:
+Tech Fax: 
+Tech Fax Ext:
+Tech Email: https://www.godaddy.com/whois/results.aspx?domain=BECKYMOOREPI.COM&action=contactDomainOwner
+Name Server: NS57.DOMAINCONTROL.COM
+Name Server: NS58.DOMAINCONTROL.COM
+DNSSEC: unsigned
+URL of the ICANN WHOIS Data Problem Reporting System: http://wdprs.internic.net/
+>>> Last update of WHOIS database: 2026-04-29T09:35:21Z <<<
+
+stacybradford@MacBookAir ~ % whois ladetectives.org
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+refer:        whois.publicinterestregistry.org
+
+domain:       ORG
+
+organisation: Public Interest Registry (PIR)
+address:      11911 Freedom Drive,
+address:      10th Floor, Suite 1000
+address:      Reston VA 20190
+address:      United States of America (the)
+
+contact:      administrative
+name:         Director of Operations, Compliance and Customer Support
+organisation: Public Interest Registry (PIR)
+address:      11911 Freedom Drive,
+address:      10th Floor, Suite 1000
+address:      Reston VA 20190
+address:      United States of America (the)
+phone:        +1 703 889 5778
+fax-no:       +1 703 889 5779
+e-mail:       ops@pir.org
+
+contact:      technical
+name:         Senior Director, DNS Infrastructure Group
+organisation: Identity Digital Limited
+address:      c/o Identity Digital Inc.
+address:      10500 NE 8th Street, Suite 750
+address:      Bellevue WA 98004
+address:      United States of America (the)
+phone:        +1.425.298.2200
+fax-no:       +1.425.671.0020
+e-mail:       tldtech@identity.digital
+
+nserver:      A0.ORG.AFILIAS-NST.INFO 199.19.56.1 2001:500:e:0:0:0:0:1
+nserver:      A2.ORG.AFILIAS-NST.INFO 199.249.112.1 2001:500:40:0:0:0:0:1
+nserver:      B0.ORG.AFILIAS-NST.ORG 199.19.54.1 2001:500:c:0:0:0:0:1
+nserver:      B2.ORG.AFILIAS-NST.ORG 199.249.120.1 2001:500:48:0:0:0:0:1
+nserver:      C0.ORG.AFILIAS-NST.INFO 199.19.53.1 2001:500:b:0:0:0:0:1
+nserver:      D0.ORG.AFILIAS-NST.ORG 199.19.57.1 2001:500:f:0:0:0:0:1
+ds-rdata:     26974 8 2 4fede294c53f438a158c41d39489cd78a86beb0d8a0aeaff14745c0d16e1de32
+
+whois:        whois.publicinterestregistry.org
+
+status:       ACTIVE
+remarks:      Registration information:
+remarks:      http://publicinterestregistry.org
+
+created:      1985-01-01
+changed:      2026-03-10
+source:       IANA
+
+# whois.publicinterestregistry.org
+
+Domain Name: ladetectives.org
+Registry Domain ID: REDACTED
+Registrar WHOIS Server: http://whois.godaddy.com
+Registrar URL: http://www.whois.godaddy.com
+Updated Date: 2024-08-27T02:48:55Z
+Creation Date: 2019-07-13T02:48:13Z
+Registry Expiry Date: 2026-07-13T02:48:13Z
+Registrar: GoDaddy.com, LLC
+Registrar IANA ID: 146
+Registrar Abuse Contact Email: abuse@godaddy.com
+Registrar Abuse Contact Phone: +1.4806242505
+Domain Status: clientDeleteProhibited https://icann.org/epp#clientDeleteProhibited
+Domain Status: clientRenewProhibited https://icann.org/epp#clientRenewProhibited
+Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+Domain Status: clientUpdateProhibited https://icann.org/epp#clientUpdateProhibited
+Name Server: ns49.domaincontrol.com
+Name Server: ns50.domaincontrol.com
+DNSSEC: unsigned
+URL of the ICANN Whois Inaccuracy Complaint Form: https://icann.org/wicf/
+>>> Last update of WHOIS database: 2026-04-29T09:35:31Z <<<
+
+stacybradford@MacBookAir ~ % whois marmaladetrust.org
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+refer:        whois.publicinterestregistry.org
+
+domain:       ORG
+
+organisation: Public Interest Registry (PIR)
+address:      11911 Freedom Drive,
+address:      10th Floor, Suite 1000
+address:      Reston VA 20190
+address:      United States of America (the)
+
+contact:      administrative
+name:         Director of Operations, Compliance and Customer Support
+organisation: Public Interest Registry (PIR)
+address:      11911 Freedom Drive,
+address:      10th Floor, Suite 1000
+address:      Reston VA 20190
+address:      United States of America (the)
+phone:        +1 703 889 5778
+fax-no:       +1 703 889 5779
+e-mail:       ops@pir.org
+
+contact:      technical
+name:         Senior Director, DNS Infrastructure Group
+organisation: Identity Digital Limited
+address:      c/o Identity Digital Inc.
+address:      10500 NE 8th Street, Suite 750
+address:      Bellevue WA 98004
+address:      United States of America (the)
+phone:        +1.425.298.2200
+fax-no:       +1.425.671.0020
+e-mail:       tldtech@identity.digital
+
+nserver:      A0.ORG.AFILIAS-NST.INFO 199.19.56.1 2001:500:e:0:0:0:0:1
+nserver:      A2.ORG.AFILIAS-NST.INFO 199.249.112.1 2001:500:40:0:0:0:0:1
+nserver:      B0.ORG.AFILIAS-NST.ORG 199.19.54.1 2001:500:c:0:0:0:0:1
+nserver:      B2.ORG.AFILIAS-NST.ORG 199.249.120.1 2001:500:48:0:0:0:0:1
+nserver:      C0.ORG.AFILIAS-NST.INFO 199.19.53.1 2001:500:b:0:0:0:0:1
+nserver:      D0.ORG.AFILIAS-NST.ORG 199.19.57.1 2001:500:f:0:0:0:0:1
+ds-rdata:     26974 8 2 4fede294c53f438a158c41d39489cd78a86beb0d8a0aeaff14745c0d16e1de32
+
+whois:        whois.publicinterestregistry.org
+
+status:       ACTIVE
+remarks:      Registration information:
+remarks:      http://publicinterestregistry.org
+
+created:      1985-01-01
+changed:      2026-03-10
+source:       IANA
+
+# whois.publicinterestregistry.org
+
+Domain Name: marmaladetrust.org
+Registry Domain ID: REDACTED
+Registrar WHOIS Server: whois.networksolutions.com
+Registrar URL: http://www.networksolutions.com
+Updated Date: 2026-03-23T14:18:26Z
+Creation Date: 2014-09-08T10:30:53Z
+Registry Expiry Date: 2027-09-08T10:30:53Z
+Registrar: Network Solutions, LLC
+Registrar IANA ID: 2
+Registrar Abuse Contact Email: domain.operations@web.com
+Registrar Abuse Contact Phone: +1.9046806694
+Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+Name Server: ns14.wixdns.net
+Name Server: ns15.wixdns.net
+DNSSEC: unsigned
+URL of the ICANN Whois Inaccuracy Complaint Form: https://icann.org/wicf/
+>>> Last update of WHOIS database: 2026-04-29T09:35:59Z <<<
+
+# whois.networksolutions.com
+
+Domain Name: marmaladetrust.org
+Registry Domain ID: D173867873-LROR
+Registrar WHOIS Server: whois.networksolutions.com
+Registrar URL: http://www.networksolutions.com/en_US/
+Updated Date: 2026-03-23T14:18:26Z
+Creation Date: 2014-09-08T10:30:53Z
+Registrar Registration Expiration Date: 2027-09-08T10:30:53Z
+Registrar: NETWORK SOLUTIONS, LLC.
+Registrar IANA ID: 2
+Reseller: 
+Domain Status: clientTransferProhibited http://icann.org/epp#clientTransferProhibited
+Registry Registrant ID: 
+Registrant Name: PERFECT PRIVACY, LLC
+Registrant Organization: 
+Registrant Street: 5335 Gate Parkway
+Registrant City: Jacksonville
+Registrant State/Province: FL
+Registrant Postal Code: 32256
+Registrant Country: US
+Registrant Phone: +1.9027492701
+Registrant Phone Ext.: 
+Registrant Fax: 
+Registrant Fax Ext.: 
+Registrant Email: 6q974lfl80j7sa1gkuj085am3q@domaindiscreet.com
+Registry Tech ID: 
+Tech Name: PERFECT PRIVACY, LLC
+Tech Phone: +1.9027492701
+Tech Email: 80g74hde4kht3aek37gcb3lbrd@domaindiscreet.com
+Name Server: ns15.wixdns.net
+Name Server: ns14.wixdns.net
+DNSSEC: Unsigned
+Registrar Abuse Contact Email: domain.operations@web.com
+Registrar Abuse Contact Phone: +1.8003337680
+URL of the ICANN WHOIS Data Problem Reporting System: http://wdprs.internic.net/
+>>> Last update of WHOIS database: 2026-04-29T09:35:59Z <<<
+
+stacybradford@MacBookAir ~ % whois wolfesinvestigations.com
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+refer:        whois.verisign-grs.com
+
+domain:       COM
+
+organisation: VeriSign Global Registry Services
+address:      12061 Bluemont Way
+address:      Reston VA 20190
+address:      United States of America (the)
+
+contact:      administrative
+name:         Registry Customer Service
+organisation: VeriSign Global Registry Services
+address:      12061 Bluemont Way
+address:      Reston VA 20190
+address:      United States of America (the)
+phone:        +1 703 925-6999
+fax-no:       +1 703 948 3978
+e-mail:       info@verisign-grs.com
+
+contact:      technical
+name:         Registry Customer Service
+organisation: VeriSign Global Registry Services
+address:      12061 Bluemont Way
+address:      Reston VA 20190
+address:      United States of America (the)
+phone:        +1 703 925-6999
+fax-no:       +1 703 948 3978
+e-mail:       info@verisign-grs.com
+
+nserver:      A.GTLD-SERVERS.NET 192.5.6.30 2001:503:a83e:0:0:0:2:30
+nserver:      B.GTLD-SERVERS.NET 192.33.14.30 2001:503:231d:0:0:0:2:30
+nserver:      C.GTLD-SERVERS.NET 192.26.92.30 2001:503:83eb:0:0:0:0:30
+nserver:      D.GTLD-SERVERS.NET 192.31.80.30 2001:500:856e:0:0:0:0:30
+nserver:      E.GTLD-SERVERS.NET 192.12.94.30 2001:502:1ca1:0:0:0:0:30
+nserver:      F.GTLD-SERVERS.NET 192.35.51.30 2001:503:d414:0:0:0:0:30
+nserver:      G.GTLD-SERVERS.NET 192.42.93.30 2001:503:eea3:0:0:0:0:30
+nserver:      H.GTLD-SERVERS.NET 192.54.112.30 2001:502:8cc:0:0:0:0:30
+nserver:      I.GTLD-SERVERS.NET 192.43.172.30 2001:503:39c1:0:0:0:0:30
+nserver:      J.GTLD-SERVERS.NET 192.48.79.30 2001:502:7094:0:0:0:0:30
+nserver:      K.GTLD-SERVERS.NET 192.52.178.30 2001:503:d2d:0:0:0:0:30
+nserver:      L.GTLD-SERVERS.NET 192.41.162.30 2001:500:d937:0:0:0:0:30
+nserver:      M.GTLD-SERVERS.NET 192.55.83.30 2001:501:b1f9:0:0:0:0:30
+ds-rdata:     19718 13 2 8acbb0cd28f41250a80a491389424d341522d946b0da0c0291f2d3d771d7805a
+
+whois:        whois.verisign-grs.com
+
+status:       ACTIVE
+remarks:      Registration information: http://www.verisigninc.com
+
+created:      1985-01-01
+changed:      2026-03-10
+source:       IANA
+
+# whois.verisign-grs.com
+
+   Domain Name: WOLFESINVESTIGATIONS.COM
+   Registry Domain ID: 1530214835_DOMAIN_COM-VRSN
+   Registrar WHOIS Server: whois.wildwestdomains.com
+   Registrar URL: http://www.wildwestdomains.com
+   Updated Date: 2025-11-13T04:49:40Z
+   Creation Date: 2008-11-26T05:33:04Z
+   Registry Expiry Date: 2028-11-26T05:33:04Z
+   Registrar: Wild West Domains, LLC
+   Registrar IANA ID: 440
+   Registrar Abuse Contact Email: abuse@wildwestdomains.com
+   Registrar Abuse Contact Phone: 480-624-2505
+   Domain Status: clientDeleteProhibited https://icann.org/epp#clientDeleteProhibited
+   Domain Status: clientRenewProhibited https://icann.org/epp#clientRenewProhibited
+   Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+   Domain Status: clientUpdateProhibited https://icann.org/epp#clientUpdateProhibited
+   Name Server: ERIC.NS.CLOUDFLARE.COM
+   Name Server: JOCELYN.NS.CLOUDFLARE.COM
+   DNSSEC: unsigned
+   URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of whois database: 2026-04-29T09:35:59Z <<<
+
+# whois.wildwestdomains.com
+
+Domain Name: WOLFESINVESTIGATIONS.COM
+Registry Domain ID: 1530214835_DOMAIN_COM-VRSN
+Registrar WHOIS Server: whois.wildwestdomains.com
+Registrar URL: https://www.wildwestdomains.com
+Updated Date: 2025-11-12T23:49:38Z
+Creation Date: 2008-11-26T00:33:04Z
+Registrar Registration Expiration Date: 2028-11-26T00:33:04Z
+Registrar: Wild West Domains, LLC
+Registrar IANA ID: 440
+Registrar Abuse Contact Email: abuse@wildwestdomains.com
+Registrar Abuse Contact Phone: +1.4806242505
+Reseller: Impression Technologies LLC
+Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+Domain Status: clientUpdateProhibited https://icann.org/epp#clientUpdateProhibited
+Domain Status: clientRenewProhibited https://icann.org/epp#clientRenewProhibited
+Domain Status: clientDeleteProhibited https://icann.org/epp#clientDeleteProhibited
+Registrant State/Province: Georgia
+Registrant Country: US
+Registrant Email: https://www.secureserver.net/whois?plid=1387&domain=WOLFESINVESTIGATIONS.COM&action=contactDomainOwner
+Tech Email: https://www.secureserver.net/whois?plid=1387&domain=WOLFESINVESTIGATIONS.COM&action=contactDomainOwner
+Name Server: ERIC.NS.CLOUDFLARE.COM
+Name Server: JOCELYN.NS.CLOUDFLARE.COM
+DNSSEC: unsigned
+URL of the ICANN WHOIS Data Problem Reporting System: http://wdprs.internic.net/
+>>> Last update of WHOIS database: 2026-04-29T09:36:18Z <<<
+
+stacybradford@MacBookAir ~ % whois epis.us
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+refer:        whois.nic.us
+
+domain:       US
+
+organisation: Registry Services, LLC
+address:      100 S. Mill Ave, Suite 1600
+address:      Tempe AZ 85281
+address:      United States of America (the)
+
+contact:      administrative
+name:         IANA Contact
+organisation: Registry Services, LLC
+address:      100 S. Mill Ave, Suite 1600
+address:      Tempe AZ 85281
+address:      United States of America (the)
+phone:        +1 480 505 8800
+fax-no:       +1 480 393 4275
+e-mail:       iana@about.us
+
+contact:      technical
+name:         IANA Contact
+organisation: Registry Services, LLC
+address:      100 S. Mill Ave, Suite 1600
+address:      Tempe AZ 85281
+address:      United States of America (the)
+phone:        +1 480 505 8800
+fax-no:       +1 480 393 4275
+e-mail:       iana@about.us
+
+nserver:      B.CCTLD.US 156.154.125.70 2001:502:ad09:0:0:0:0:29
+nserver:      F.CCTLD.US 2001:500:3682:0:0:0:0:11 209.173.58.70
+nserver:      K.CCTLD.US 156.154.128.70 2001:503:e239:0:0:0:3:1
+nserver:      M.CCTLD.US 204.74.105.1 2610:a1:3180:0:0:0:0:53
+nserver:      N.CCTLD.US 204.74.107.1 2610:a1:3280:0:0:0:0:53
+nserver:      W.CCTLD.US 2001:dcd:1:0:0:0:0:15 37.209.192.15
+nserver:      X.CCTLD.US 2001:dcd:2:0:0:0:0:15 37.209.194.15
+nserver:      Y.CCTLD.US 2001:dcd:3:0:0:0:0:15 37.209.196.15
+ds-rdata:     59017 8 2 7daf469d42b5d8e5537fd4dd4b6057710e9a61f72c32eb7fb6526f52277ec2b0
+
+whois:        whois.nic.us
+
+status:       ACTIVE
+remarks:      Registration information: http://www.nic.us
+
+created:      1985-02-15
+changed:      2024-08-29
+source:       IANA
+
+# whois.nic.us
+
+Domain Name: epis.us
+Registry Domain ID: D8085306-US
+Registrar WHOIS Server: whois.godaddy.com
+Registrar URL: whois.godaddy.com
+Updated Date: 2026-01-17T13:19:44Z
+Creation Date: 2005-07-06T19:50:41Z
+Registry Expiry Date: 2026-07-05T23:59:59Z
+Registrar: GoDaddy.com, LLC
+Registrar IANA ID: 146
+Registrar Abuse Contact Email: abuse@godaddy.com
+Registrar Abuse Contact Phone: +1.4806242505
+Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+Domain Status: clientUpdateProhibited https://icann.org/epp#clientUpdateProhibited
+Domain Status: clientRenewProhibited https://icann.org/epp#clientRenewProhibited
+Domain Status: clientDeleteProhibited https://icann.org/epp#clientDeleteProhibited
+Registry Registrant ID: C24802399-US
+Registrant Name: Mike Hakimi
+Registrant Organization: EPIS
+Registrant Street: 1414 Sunset Plaza Dr.
+Registrant Street:
+Registrant Street:
+Registrant City: Los Angeles
+Registrant State/Province: California
+Registrant Postal Code: 90069
+Registrant Country: us
+Registrant Phone: +1.3104335332
+Registrant Phone Ext:
+Registrant Fax:
+Registrant Fax Ext:
+Registrant Email: epis0007@gmail.com
+Registrant Application Purpose: P1
+Registrant Nexus Category: C11
+Registry Admin ID: C24802403-US
+Admin Name: Mike Hakimi
+Admin Organization: EPIS
+Admin Street: 1414 Sunset Plaza Dr.
+Admin Street:
+Admin Street:
+Admin City: Los Angeles
+Admin State/Province: California
+Admin Postal Code: 90069
+Admin Country: us
+Admin Phone: +1.3104335332
+Admin Phone Ext:
+Admin Fax:
+Admin Fax Ext:
+Admin Email: epis0007@gmail.com
+Admin Application Purpose: P1
+Admin Nexus Category: C11
+Registry Tech ID: C24802401-US
+Tech Name: Mike Hakimi
+Tech Organization: EPIS
+Tech Street: 1414 Sunset Plaza Dr.
+Tech Street:
+Tech Street:
+Tech City: Los Angeles
+Tech State/Province: California
+Tech Postal Code: 90069
+Tech Country: us
+Tech Phone: +1.3104335332
+Tech Phone Ext:
+Tech Fax:
+Tech Fax Ext:
+Tech Email: epis0007@gmail.com
+Tech Application Purpose: P1
+Tech Nexus Category: C11
+Name Server: alexis.ns.cloudflare.com
+Name Server: bella.ns.cloudflare.com
+DNSSEC: unsigned
+URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of WHOIS database: 2026-04-29T09:36:31Z <<<
+
+# whois.godaddy.com
+
+Domain Name: EPIS.US
+Registry Domain ID: D8085306-US
+Registrar WHOIS Server: whois.godaddy.com
+Registrar URL: https://www.godaddy.com
+Updated Date: 2019-11-20T05:06:20Z
+Creation Date: 2005-07-06T19:50:41Z
+Registrar Registration Expiration Date: 2026-07-05T23:59:59Z
+Registrar: GoDaddy.com, LLC
+Registrar IANA ID: 146
+Registrar Abuse Contact Email: abuse@godaddy.com
+Registrar Abuse Contact Phone: +1.4806242505
+Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+Domain Status: clientUpdateProhibited https://icann.org/epp#clientUpdateProhibited
+Domain Status: clientRenewProhibited https://icann.org/epp#clientRenewProhibited
+Domain Status: clientDeleteProhibited https://icann.org/epp#clientDeleteProhibited
+Registrant State/Province: California
+Registrant Country: US
+Registrant Email: https://www.godaddy.com/whois/results.aspx?domain=EPIS.US&action=contactDomainOwner
+Tech Email: https://www.godaddy.com/whois/results.aspx?domain=EPIS.US&action=contactDomainOwner
+Name Server: ALEXIS.NS.CLOUDFLARE.COM
+Name Server: BELLA.NS.CLOUDFLARE.COM
+DNSSEC: unsigned
+URL of the ICANN WHOIS Data Problem Reporting System: http://wdprs.internic.net/
+>>> Last update of WHOIS database: 2026-04-29T09:36:31Z <<<
+
+stacybradford@MacBookAir ~ % whois epis.com
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+refer:        whois.verisign-grs.com
+
+domain:       COM
+
+organisation: VeriSign Global Registry Services
+address:      12061 Bluemont Way
+address:      Reston VA 20190
+address:      United States of America (the)
+
+contact:      administrative
+name:         Registry Customer Service
+organisation: VeriSign Global Registry Services
+address:      12061 Bluemont Way
+address:      Reston VA 20190
+address:      United States of America (the)
+phone:        +1 703 925-6999
+fax-no:       +1 703 948 3978
+e-mail:       info@verisign-grs.com
+
+contact:      technical
+name:         Registry Customer Service
+organisation: VeriSign Global Registry Services
+address:      12061 Bluemont Way
+address:      Reston VA 20190
+address:      United States of America (the)
+phone:        +1 703 925-6999
+fax-no:       +1 703 948 3978
+e-mail:       info@verisign-grs.com
+
+nserver:      A.GTLD-SERVERS.NET 192.5.6.30 2001:503:a83e:0:0:0:2:30
+nserver:      B.GTLD-SERVERS.NET 192.33.14.30 2001:503:231d:0:0:0:2:30
+nserver:      C.GTLD-SERVERS.NET 192.26.92.30 2001:503:83eb:0:0:0:0:30
+nserver:      D.GTLD-SERVERS.NET 192.31.80.30 2001:500:856e:0:0:0:0:30
+nserver:      E.GTLD-SERVERS.NET 192.12.94.30 2001:502:1ca1:0:0:0:0:30
+nserver:      F.GTLD-SERVERS.NET 192.35.51.30 2001:503:d414:0:0:0:0:30
+nserver:      G.GTLD-SERVERS.NET 192.42.93.30 2001:503:eea3:0:0:0:0:30
+nserver:      H.GTLD-SERVERS.NET 192.54.112.30 2001:502:8cc:0:0:0:0:30
+nserver:      I.GTLD-SERVERS.NET 192.43.172.30 2001:503:39c1:0:0:0:0:30
+nserver:      J.GTLD-SERVERS.NET 192.48.79.30 2001:502:7094:0:0:0:0:30
+nserver:      K.GTLD-SERVERS.NET 192.52.178.30 2001:503:d2d:0:0:0:0:30
+nserver:      L.GTLD-SERVERS.NET 192.41.162.30 2001:500:d937:0:0:0:0:30
+nserver:      M.GTLD-SERVERS.NET 192.55.83.30 2001:501:b1f9:0:0:0:0:30
+ds-rdata:     19718 13 2 8acbb0cd28f41250a80a491389424d341522d946b0da0c0291f2d3d771d7805a
+
+whois:        whois.verisign-grs.com
+
+status:       ACTIVE
+remarks:      Registration information: http://www.verisigninc.com
+
+created:      1985-01-01
+changed:      2026-03-10
+source:       IANA
+
+# whois.verisign-grs.com
+
+   Domain Name: EPIS.COM
+   Registry Domain ID: 3428368_DOMAIN_COM-VRSN
+   Registrar WHOIS Server: whois.registrar.amazon
+   Registrar URL: http://registrar.amazon.com
+   Updated Date: 2026-01-17T05:04:25Z
+   Creation Date: 1997-02-20T05:00:00Z
+   Registry Expiry Date: 2027-02-21T05:00:00Z
+   Registrar: Amazon Registrar, Inc.
+   Registrar IANA ID: 468
+   Registrar Abuse Contact Email: trustandsafety@support.aws.com
+   Registrar Abuse Contact Phone: +1.2024422253
+   Domain Status: clientDeleteProhibited https://icann.org/epp#clientDeleteProhibited
+   Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+   Domain Status: clientUpdateProhibited https://icann.org/epp#clientUpdateProhibited
+   Name Server: NS-1196.AWSDNS-21.ORG
+   Name Server: NS-1977.AWSDNS-55.CO.UK
+   Name Server: NS-410.AWSDNS-51.COM
+   Name Server: NS-924.AWSDNS-51.NET
+   DNSSEC: unsigned
+   URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of whois database: 2026-04-29T09:36:16Z <<<
+
+# whois.registrar.amazon
+
+Domain Name: epis.com
+Registry Domain ID: 3428368_DOMAIN_COM-VRSN
+Registrar WHOIS Server: whois.registrar.amazon
+Registrar URL: https://registrar.amazon.com
+Updated Date: 2026-01-17T05:04:25Z
+Creation Date: 1997-02-20T05:00:00Z
+Registrar Registration Expiration Date: 2027-02-21T05:00:00Z
+Registrar: Amazon Registrar, Inc.
+Registrar IANA ID: 468
+Registrar Abuse Contact Email: trustandsafety@support.aws.com
+Registrar Abuse Contact Phone: +1.2024422253
+Domain Status: clientUpdateProhibited https://icann.org/epp#clientUpdateProhibited
+Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+Domain Status: clientDeleteProhibited https://icann.org/epp#clientDeleteProhibited
+Registry Registrant ID: Not Available From Registry
+Registrant Name: On behalf of epis.com owner
+Registrant Organization: Identity Protection Service
+Registrant Street: PO Box 786
+Registrant City: Hayes
+Registrant State/Province: Middlesex
+Registrant Postal Code: UB3 9TR
+Registrant Country: GB
+Registrant Phone: +44.1483307527
+Registrant Phone Ext:
+Registrant Fax: +44.1483304031
+Registrant Fax Ext:
+Registrant Email: f1beaf6f-9d5b-429a-a751-2de071389b96@identity-protect.org
+Registry Tech ID: Not Available From Registry
+Tech Name: On behalf of epis.com owner
+Tech Organization: Identity Protection Service
+Tech Street: PO Box 786
+Tech City: Hayes
+Tech State/Province: Middlesex
+Tech Postal Code: UB3 9TR
+Tech Country: GB
+Tech Phone: +44.1483307527
+Tech Phone Ext:
+Tech Fax: +44.1483304031
+Tech Fax Ext:
+Tech Email: f1beaf6f-9d5b-429a-a751-2de071389b96@identity-protect.org
+Name Server: NS-1977.AWSDNS-55.CO.UK
+Name Server: NS-924.AWSDNS-51.NET
+Name Server: NS-1196.AWSDNS-21.ORG
+Name Server: NS-410.AWSDNS-51.COM
+DNSSEC: unsigned
+URL of the ICANN WHOIS Data Problem Reporting System: http://wdprs.internic.net/
+>>> Last update of WHOIS database: 2026-04-29T09:36:36Z <<<
+
+stacybradford@MacBookAir ~ % whois xrampsecurity.com
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+refer:        whois.verisign-grs.com
+
+domain:       COM
+
+organisation: VeriSign Global Registry Services
+address:      12061 Bluemont Way
+address:      Reston VA 20190
+address:      United States of America (the)
+
+contact:      administrative
+name:         Registry Customer Service
+organisation: VeriSign Global Registry Services
+address:      12061 Bluemont Way
+address:      Reston VA 20190
+address:      United States of America (the)
+phone:        +1 703 925-6999
+fax-no:       +1 703 948 3978
+e-mail:       info@verisign-grs.com
+
+contact:      technical
+name:         Registry Customer Service
+organisation: VeriSign Global Registry Services
+address:      12061 Bluemont Way
+address:      Reston VA 20190
+address:      United States of America (the)
+phone:        +1 703 925-6999
+fax-no:       +1 703 948 3978
+e-mail:       info@verisign-grs.com
+
+nserver:      A.GTLD-SERVERS.NET 192.5.6.30 2001:503:a83e:0:0:0:2:30
+nserver:      B.GTLD-SERVERS.NET 192.33.14.30 2001:503:231d:0:0:0:2:30
+nserver:      C.GTLD-SERVERS.NET 192.26.92.30 2001:503:83eb:0:0:0:0:30
+nserver:      D.GTLD-SERVERS.NET 192.31.80.30 2001:500:856e:0:0:0:0:30
+nserver:      E.GTLD-SERVERS.NET 192.12.94.30 2001:502:1ca1:0:0:0:0:30
+nserver:      F.GTLD-SERVERS.NET 192.35.51.30 2001:503:d414:0:0:0:0:30
+nserver:      G.GTLD-SERVERS.NET 192.42.93.30 2001:503:eea3:0:0:0:0:30
+nserver:      H.GTLD-SERVERS.NET 192.54.112.30 2001:502:8cc:0:0:0:0:30
+nserver:      I.GTLD-SERVERS.NET 192.43.172.30 2001:503:39c1:0:0:0:0:30
+nserver:      J.GTLD-SERVERS.NET 192.48.79.30 2001:502:7094:0:0:0:0:30
+nserver:      K.GTLD-SERVERS.NET 192.52.178.30 2001:503:d2d:0:0:0:0:30
+nserver:      L.GTLD-SERVERS.NET 192.41.162.30 2001:500:d937:0:0:0:0:30
+nserver:      M.GTLD-SERVERS.NET 192.55.83.30 2001:501:b1f9:0:0:0:0:30
+ds-rdata:     19718 13 2 8acbb0cd28f41250a80a491389424d341522d946b0da0c0291f2d3d771d7805a
+
+whois:        whois.verisign-grs.com
+
+status:       ACTIVE
+remarks:      Registration information: http://www.verisigninc.com
+
+created:      1985-01-01
+changed:      2026-03-10
+source:       IANA
+
+# whois.verisign-grs.com
+
+   Domain Name: XRAMPSECURITY.COM
+   Registry Domain ID: 93582985_DOMAIN_COM-VRSN
+   Registrar WHOIS Server: whois.godaddy.com
+   Registrar URL: http://www.godaddy.com
+   Updated Date: 2026-04-20T14:25:55Z
+   Creation Date: 2003-01-02T04:08:43Z
+   Registry Expiry Date: 2026-10-01T11:59:59Z
+   Registrar: GoDaddy.com, LLC
+   Registrar IANA ID: 146
+   Registrar Abuse Contact Email: abuse@godaddy.com
+   Registrar Abuse Contact Phone: 480-624-2505
+   Domain Status: ok https://icann.org/epp#ok
+   Name Server: NS-1405.AWSDNS-47.ORG
+   Name Server: NS-1846.AWSDNS-38.CO.UK
+   Name Server: NS-373.AWSDNS-46.COM
+   Name Server: NS-621.AWSDNS-13.NET
+   DNSSEC: unsigned
+   URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of whois database: 2026-04-29T09:36:48Z <<<
+
+# whois.godaddy.com
+
+Domain Name: xrampsecurity.com
+Registry Domain ID: 93582985_DOMAIN_COM-VRSN
+Registrar WHOIS Server: whois.godaddy.com
+Registrar URL: https://www.godaddy.com
+Updated Date: 2025-10-02T08:20:26Z
+Creation Date: 2003-01-01T23:08:43Z
+Registrar Registration Expiration Date: 2026-10-01T06:59:59Z
+Registrar: GoDaddy.com, LLC
+Registrar IANA ID: 146
+Registrar Abuse Contact Email: abuse@godaddy.com
+Registrar Abuse Contact Phone: +1.4806242505
+Domain Status: ok https://icann.org/epp#ok
+Registry Registrant ID: Not Available From Registry
+Registrant Name: Registration Private
+Registrant Organization: Domains By Proxy, LLC
+Registrant Street: DomainsByProxy.com
+Registrant Street: 100 S. Mill Ave, Suite 1600
+Registrant City: Tempe
+Registrant State/Province: Arizona
+Registrant Postal Code: 85281
+Registrant Country: US
+Registrant Phone: +1.4806242599
+Registrant Phone Ext:
+Registrant Fax: 
+Registrant Fax Ext:
+Registrant Email: https://www.godaddy.com/whois/results.aspx?domain=xrampsecurity.com&action=contactDomainOwner
+Registry Tech ID: Not Available From Registry
+Tech Name: Registration Private
+Tech Organization: Domains By Proxy, LLC
+Tech Street: DomainsByProxy.com
+Tech Street: 100 S. Mill Ave, Suite 1600
+Tech City: Tempe
+Tech State/Province: Arizona
+Tech Postal Code: 85281
+Tech Country: US
+Tech Phone: +1.4806242599
+Tech Phone Ext:
+Tech Fax: 
+Tech Fax Ext:
+Tech Email: https://www.godaddy.com/whois/results.aspx?domain=xrampsecurity.com&action=contactDomainOwner
+Name Server: NS-373.AWSDNS-46.COM
+Name Server: NS-621.AWSDNS-13.NET
+Name Server: NS-1405.AWSDNS-47.ORG
+Name Server: NS-1846.AWSDNS-38.CO.UK
+DNSSEC: unsigned
+URL of the ICANN WHOIS Data Problem Reporting System: http://wdprs.internic.net/
+>>> Last update of WHOIS database: 2026-04-29T09:36:57Z <<<
+
+stacybradford@MacBookAir ~ % host about.us
+about.us has address 34.204.39.241
+about.us has address 54.85.227.149
+about.us mail is handled by 10 about-us.mail.protection.outlook.com.
+stacybradford@MacBookAir ~ % whois about.us
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+refer:        whois.nic.us
+
+domain:       US
+
+organisation: Registry Services, LLC
+address:      100 S. Mill Ave, Suite 1600
+address:      Tempe AZ 85281
+address:      United States of America (the)
+
+contact:      administrative
+name:         IANA Contact
+organisation: Registry Services, LLC
+address:      100 S. Mill Ave, Suite 1600
+address:      Tempe AZ 85281
+address:      United States of America (the)
+phone:        +1 480 505 8800
+fax-no:       +1 480 393 4275
+e-mail:       iana@about.us
+
+contact:      technical
+name:         IANA Contact
+organisation: Registry Services, LLC
+address:      100 S. Mill Ave, Suite 1600
+address:      Tempe AZ 85281
+address:      United States of America (the)
+phone:        +1 480 505 8800
+fax-no:       +1 480 393 4275
+e-mail:       iana@about.us
+
+nserver:      B.CCTLD.US 156.154.125.70 2001:502:ad09:0:0:0:0:29
+nserver:      F.CCTLD.US 2001:500:3682:0:0:0:0:11 209.173.58.70
+nserver:      K.CCTLD.US 156.154.128.70 2001:503:e239:0:0:0:3:1
+nserver:      M.CCTLD.US 204.74.105.1 2610:a1:3180:0:0:0:0:53
+nserver:      N.CCTLD.US 204.74.107.1 2610:a1:3280:0:0:0:0:53
+nserver:      W.CCTLD.US 2001:dcd:1:0:0:0:0:15 37.209.192.15
+nserver:      X.CCTLD.US 2001:dcd:2:0:0:0:0:15 37.209.194.15
+nserver:      Y.CCTLD.US 2001:dcd:3:0:0:0:0:15 37.209.196.15
+ds-rdata:     59017 8 2 7daf469d42b5d8e5537fd4dd4b6057710e9a61f72c32eb7fb6526f52277ec2b0
+
+whois:        whois.nic.us
+
+status:       ACTIVE
+remarks:      Registration information: http://www.nic.us
+
+created:      1985-02-15
+changed:      2024-08-29
+source:       IANA
+
+# whois.nic.us
+
+Domain Name: about.us
+Registry Domain ID: D651466-US
+Registrar WHOIS Server:
+Registrar URL: https://www.about.us/
+Updated Date: 2025-06-02T00:00:13Z
+Creation Date: 2002-04-18T15:16:22Z
+Registry Expiry Date: 2026-04-17T23:59:59Z
+Registrar: .us Registry Services LLC
+Registrar IANA ID: 1111112
+Registrar Abuse Contact Email: abuse@about.us
+Registrar Abuse Contact Phone:
+Domain Status: clientDeleteProhibited https://icann.org/epp#clientDeleteProhibited
+Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+Domain Status: serverDeleteProhibited https://icann.org/epp#serverDeleteProhibited
+Domain Status: serverTransferProhibited https://icann.org/epp#serverTransferProhibited
+Domain Status: autoRenewPeriod https://icann.org/epp#autoRenewPeriod
+Registry Registrant ID: C37639215-US
+Registrant Name: .US Registration Policy
+Registrant Organization: Registry Services, LLC
+Registrant Street: 100 S. Mill Ave
+Registrant Street: Suite 1600
+Registrant Street:
+Registrant City: Tempe
+Registrant State/Province: AZ
+Registrant Postal Code: 85281
+Registrant Country: US
+Registrant Phone: +1.4806519999
+Registrant Phone Ext:
+Registrant Fax:
+Registrant Fax Ext:
+Registrant Email: help@about.us
+Registrant Application Purpose: P5
+Registrant Nexus Category: C21
+Registry Admin ID: C37639215-US
+Admin Name: .US Registration Policy
+Admin Organization: Registry Services, LLC
+Admin Street: 100 S. Mill Ave
+Admin Street: Suite 1600
+Admin Street:
+Admin City: Tempe
+Admin State/Province: AZ
+Admin Postal Code: 85281
+Admin Country: US
+Admin Phone: +1.4806519999
+Admin Phone Ext:
+Admin Fax:
+Admin Fax Ext:
+Admin Email: help@about.us
+Admin Application Purpose: P5
+Admin Nexus Category: C21
+Registry Tech ID: C37639215-US
+Tech Name: .US Registration Policy
+Tech Organization: Registry Services, LLC
+Tech Street: 100 S. Mill Ave
+Tech Street: Suite 1600
+Tech Street:
+Tech City: Tempe
+Tech State/Province: AZ
+Tech Postal Code: 85281
+Tech Country: US
+Tech Phone: +1.4806519999
+Tech Phone Ext:
+Tech Fax:
+Tech Fax Ext:
+Tech Email: help@about.us
+Tech Application Purpose: P5
+Tech Nexus Category: C21
+Name Server: ns1.usatfus.about.us
+Name Server: ns2.usatfus.about.us
+DNSSEC: unsigned
+URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of WHOIS database: 2026-04-29T09:38:11Z <<<
+
+stacybradford@MacBookAir ~ % 
