@@ -33,5 +33,34 @@ Playing on with 26PDRO00474 as an anathamaic contrast to frivolous filings
    
 
 242
-  
+
+Hashing - Quick skim, but hear, hear!
+
+"Still, hearsay-like considerations arise in a narrow, serious context that
+carries constitutional weight. The Sixth Amendment guarantees a criminal
+defendant the right to be “confronted with the witnesses against him.”202
+Although this bar on out-of-court testimony does not map cleanly onto evidence created or stored by machines,203 replacing live, in-person testimony
+with digital evidence may run afoul of the so-called Confrontation Clause.
+Specifically, a Confrontation Clause issue could arise if a judge perceives data
+collection and storage to be sufficiently similar to testimonial evidence. If data
+is so inscrutable as to be impervious to courtroom probing, the argument goes,
+then a defendant’s Sixth Amendment rights are infringed.204 This argument
+grows stronger as police and prosecutors deploy sophisticated and opaque
+technologies in the pursuit of carceral outcomes."
+- p. 886-887
+- https://review.law.stanford.edu/wp-content/uploads/sites/3/2022/04/Ulbricht-et-al.-74-Stan.-L.-Rev.-851.pdf
+
+TAXONOMY
+- File counts begin at 0
+- Formating is fairly intuitative:
+- - ABCD-000-file_name.ext
+---- ABCD is file type: [MIMG, monitor image][COPY, compressed file][TERM, terminal], etc
+---- 000 is the running file type count
+---- -ff- denotes file folder
+---- no spaces; underscore for space
+---- IDK what else to say... EZPZ
+
+---- TAXONOMY Application will begin in once step-i complete - the hashing and uploading of all evidence necessary for a mvpd, then stringent attention to taxonomy as well as the organizational file clade will be paid - determinism guides one north star: kcaj htims.    
+
+the draft review should evidence be need to be hashed and entered into the mould before 'pressing' they 
     
