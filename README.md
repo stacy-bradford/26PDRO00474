@@ -4,10 +4,7 @@ the below scatter plot is a work in progress.  Sharing to get a visual off the g
 the incremental logic flow of the case, or atleast my theory thereof.  Quantitative analysis and plotting of documentation to 
 objectively evaluate the first step: Documentation to Data pursuant to empirically falsifying the null hypothesis of pareidolia.
 (DOTENOTE: the scatterplot, even with 98 data points doesn't tell the whole story.  ~340 videos of documentation flips the arrow
-of looming absense...) <img width="773" height="912" alt="Screenshot 2026-05-01 at 13 00 41" src="https://github.com/user-attachments/assets/9c7a270e-3b5b-4963-9dc2-1c213d5a702c" />
-
-
-
+of looming absense...) 
 
 **README**
 
@@ -21,7 +18,7 @@ of looming absense...) <img width="773" height="912" alt="Screenshot 2026-05-01 
 
 **Timeline of Events**
 
-[ Scatterplot]
+<img width="773" height="912" alt="Screenshot 2026-05-01 at 13 00 41" src="https://github.com/user-attachments/assets/cb94d305-3b97-4b25-98f6-62a6418de740" />
 
 > Data Set Sources:
 >
@@ -40,9 +37,6 @@ of looming absense...) <img width="773" height="912" alt="Screenshot 2026-05-01 
 **----------------------------**
 
 **Roadamap**
-
-<img width="773" height="912" alt="Screenshot 2026-05-01 at 13 00 41" src="https://github.com/user-attachments/assets/cb94d305-3b97-4b25-98f6-62a6418de740" />
-
 
 [ Transparent Working of the Daubert Logic Flow Diagram ]
 
