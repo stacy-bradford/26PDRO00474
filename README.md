@@ -1,20 +1,42 @@
-[ Scatterplot ]
+**README**
 
-> **Data Set Sources:**
+> Versioning Format Thoughts:
+>
+> Given this is the third case, and hopefully the last civil - for the moment anyway - my working versioning format is:
+>
+> [Case No.].[Hearing No.].[Successful Event: 0-Filing, 1-Serving].[Documented Event: LAPD, Unsucessful Filing, Email]
+
+**----------------------------**
+
+**Timeline of Events**
+
+[ Scatterplot]
+
+> Data Set Sources:
 >
 > - Segmented Out:
 >
 > -- Authority call log.xlxs
 >
-> --- SHA256 (/Users/stacybradford/Desktop/pornhub/dote/26STRO01453/LAPD_Documentation_Log.xlsx) = f53aae32e4de89a6b489af962377f2c57cbbeef7cdf9d86192b5bd34cd560435
->
 > -- LAPD Documentation log.xlxs
->
-> --- SHA256 (authority_call_log.xlsx) = 75c7bb2cc3808d032c580cbf1ad873bc0fc6a605dd951bd97c05ba2beff921c1
+
+**----------------------------**
+
+**The Theory of the Case**
+
+[ Visually Mapped Ocham's-ously ]
+
+**----------------------------**
+
+**Roadamap**
+
+[ Transparent Working of the Daubert Logic Flow Diagram ]
+
+**----------------------------**
 
 
 
-
+**----------------------------**
 
 Hello world.
 
