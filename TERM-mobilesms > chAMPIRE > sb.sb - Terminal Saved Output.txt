@@ -1,0 +1,371 @@
+Last login: Sat May  2 12:37:06 on ttys062
+You have mail.
+stacybradford@Stacys-MacBook-Air ~ % host captiveagent.com
+captiveagent.com has address 76.223.54.146
+captiveagent.com has address 13.248.169.48
+captiveagent.com mail is handled by 0 .
+stacybradford@Stacys-MacBook-Air ~ % host 13.248.169.48
+
+48.169.248.13.in-addr.arpa domain name pointer a904c694c05102f30.awsglobalaccelerator.com.
+stacybradford@Stacys-MacBook-Air ~ % 
+  [Restored May 2, 2026 at 14:52:50]
+Last login: Sat May  2 14:52:51 on ttys055
+You have mail.
+stacybradford@Stacys-MacBook-Air ~ % 
+  [Restored May 2, 2026 at 23:40:10]
+Last login: Sat May  2 23:40:10 on ttys051
+You have mail.
+stacybradford@Stacys-MacBook-Air ~ % host mobilesms.net
+Host mobilesms.net not found: 3(NXDOMAIN)
+stacybradford@Stacys-MacBook-Air ~ % host mobilesms.com
+mobilesms.com has address 64.190.63.222
+mobilesms.com mail is handled by 0 localhost.
+stacybradford@Stacys-MacBook-Air ~ % whois mobilesms.com
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+refer:        whois.verisign-grs.com
+
+domain:       COM
+
+organisation: VeriSign Global Registry Services
+address:      12061 Bluemont Way
+address:      Reston VA 20190
+address:      United States of America (the)
+
+contact:      administrative
+name:         Registry Customer Service
+organisation: VeriSign Global Registry Services
+address:      12061 Bluemont Way
+address:      Reston VA 20190
+address:      United States of America (the)
+phone:        +1 703 925-6999
+fax-no:       +1 703 948 3978
+e-mail:       info@verisign-grs.com
+
+contact:      technical
+name:         Registry Customer Service
+organisation: VeriSign Global Registry Services
+address:      12061 Bluemont Way
+address:      Reston VA 20190
+address:      United States of America (the)
+phone:        +1 703 925-6999
+fax-no:       +1 703 948 3978
+e-mail:       info@verisign-grs.com
+
+nserver:      A.GTLD-SERVERS.NET 192.5.6.30 2001:503:a83e:0:0:0:2:30
+nserver:      B.GTLD-SERVERS.NET 192.33.14.30 2001:503:231d:0:0:0:2:30
+nserver:      C.GTLD-SERVERS.NET 192.26.92.30 2001:503:83eb:0:0:0:0:30
+nserver:      D.GTLD-SERVERS.NET 192.31.80.30 2001:500:856e:0:0:0:0:30
+nserver:      E.GTLD-SERVERS.NET 192.12.94.30 2001:502:1ca1:0:0:0:0:30
+nserver:      F.GTLD-SERVERS.NET 192.35.51.30 2001:503:d414:0:0:0:0:30
+nserver:      G.GTLD-SERVERS.NET 192.42.93.30 2001:503:eea3:0:0:0:0:30
+nserver:      H.GTLD-SERVERS.NET 192.54.112.30 2001:502:8cc:0:0:0:0:30
+nserver:      I.GTLD-SERVERS.NET 192.43.172.30 2001:503:39c1:0:0:0:0:30
+nserver:      J.GTLD-SERVERS.NET 192.48.79.30 2001:502:7094:0:0:0:0:30
+nserver:      K.GTLD-SERVERS.NET 192.52.178.30 2001:503:d2d:0:0:0:0:30
+nserver:      L.GTLD-SERVERS.NET 192.41.162.30 2001:500:d937:0:0:0:0:30
+nserver:      M.GTLD-SERVERS.NET 192.55.83.30 2001:501:b1f9:0:0:0:0:30
+ds-rdata:     19718 13 2 8acbb0cd28f41250a80a491389424d341522d946b0da0c0291f2d3d771d7805a
+
+whois:        whois.verisign-grs.com
+
+status:       ACTIVE
+remarks:      Registration information: http://www.verisigninc.com
+
+created:      1985-01-01
+changed:      2026-03-10
+source:       IANA
+
+# whois.verisign-grs.com
+
+   Domain Name: MOBILESMS.COM
+   Registry Domain ID: 1585079_DOMAIN_COM-VRSN
+   Registrar WHOIS Server: whois.networksolutions.com
+   Registrar URL: http://networksolutions.com
+   Updated Date: 2025-05-15T07:38:31Z
+   Creation Date: 1998-07-15T04:00:00Z
+   Registry Expiry Date: 2027-07-14T04:00:00Z
+   Registrar: Network Solutions, LLC
+   Registrar IANA ID: 2
+   Registrar Abuse Contact Email: domain.operations@web.com
+   Registrar Abuse Contact Phone: +1.8777228662
+   Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+   Name Server: NS1.SEDOPARKING.COM
+   Name Server: NS2.SEDOPARKING.COM
+   DNSSEC: unsigned
+   URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of whois database: 2026-05-03T17:19:44Z <<<
+
+# whois.networksolutions.com
+
+Domain Name: MOBILESMS.COM
+Registry Domain ID: 1585079_DOMAIN_COM-VRSN
+Registrar WHOIS Server: whois.networksolutions.com
+Registrar URL: http://networksolutions.com
+Updated Date: 2025-05-15T07:38:58Z
+Creation Date: 1998-07-15T04:00:00Z
+Registrar Registration Expiration Date: 2027-07-14T04:00:00Z
+Registrar: Network Solutions, LLC
+Registrar IANA ID: 2
+Reseller: 
+Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+Registry Registrant ID: Statutory Masking Enabled
+Registrant Name: Statutory Masking Enabled
+Registrant Organization: Statutory Masking Enabled
+Registrant Street: Statutory Masking Enabled
+Registrant City: Statutory Masking Enabled
+Registrant State/Province: Berkshire
+Registrant Postal Code: Statutory Masking Enabled
+Registrant Country: GB
+Registrant Phone: Statutory Masking Enabled
+Registrant Phone Ext: Statutory Masking Enabled
+Registrant Fax: Statutory Masking Enabled
+Registrant Fax Ext: Statutory Masking Enabled
+Registrant Email: dataprotected@maskeddetails.com
+Registry Admin ID: Statutory Masking Enabled
+Admin Name: Statutory Masking Enabled
+Admin Organization: Statutory Masking Enabled
+Admin Street: Statutory Masking Enabled
+Admin City: Statutory Masking Enabled
+Admin State/Province: Statutory Masking Enabled
+Admin Postal Code: Statutory Masking Enabled
+Admin Country: Statutory Masking Enabled
+Admin Phone: Statutory Masking Enabled
+Admin Phone Ext: Statutory Masking Enabled
+Admin Fax: Statutory Masking Enabled
+Admin Fax Ext: Statutory Masking Enabled
+Admin Email: dataprotected@maskeddetails.com
+Registry Tech ID: Statutory Masking Enabled
+Tech Name: Statutory Masking Enabled
+Tech Organization: Statutory Masking Enabled
+Tech Street: Statutory Masking Enabled
+Tech City: Statutory Masking Enabled
+Tech State/Province: Statutory Masking Enabled
+Tech Postal Code: Statutory Masking Enabled
+Tech Country: Statutory Masking Enabled
+Tech Phone: Statutory Masking Enabled
+Tech Phone Ext: Statutory Masking Enabled
+Tech Fax: Statutory Masking Enabled
+Tech Fax Ext: Statutory Masking Enabled
+Tech Email: dataprotected@maskeddetails.com
+Registry Billing ID: Statutory Masking Enabled
+Billing Name: Statutory Masking Enabled
+Billing Organization: Statutory Masking Enabled
+Billing Street: Statutory Masking Enabled
+Billing City: Statutory Masking Enabled
+Billing State/Province: Statutory Masking Enabled
+Billing Postal Code: Statutory Masking Enabled
+Billing Country: Statutory Masking Enabled
+Billing Phone: Statutory Masking Enabled
+Billing Phone Ext: Statutory Masking Enabled
+Billing Fax: Statutory Masking Enabled
+Billing Fax Ext: Statutory Masking Enabled
+Billing Email: dataprotected@maskeddetails.com
+Name Server: NS1.SEDOPARKING.COM
+Name Server: NS2.SEDOPARKING.COM
+DNSSEC: unsigned
+Registrar Abuse Contact Email: domain.operations@web.com
+Registrar Abuse Contact Phone: +1.8777228662
+URL of the ICANN WHOIS Data Problem Reporting System: http://wdprs.internic.net/
+>>> Last update of WHOIS database: 2026-05-03T17:20:04Z <<<
+
+stacybradford@Stacys-MacBook-Air ~ % whois champire.com
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+refer:        whois.verisign-grs.com
+
+domain:       COM
+
+organisation: VeriSign Global Registry Services
+address:      12061 Bluemont Way
+address:      Reston VA 20190
+address:      United States of America (the)
+
+contact:      administrative
+name:         Registry Customer Service
+organisation: VeriSign Global Registry Services
+address:      12061 Bluemont Way
+address:      Reston VA 20190
+address:      United States of America (the)
+phone:        +1 703 925-6999
+fax-no:       +1 703 948 3978
+e-mail:       info@verisign-grs.com
+
+contact:      technical
+name:         Registry Customer Service
+organisation: VeriSign Global Registry Services
+address:      12061 Bluemont Way
+address:      Reston VA 20190
+address:      United States of America (the)
+phone:        +1 703 925-6999
+fax-no:       +1 703 948 3978
+e-mail:       info@verisign-grs.com
+
+nserver:      A.GTLD-SERVERS.NET 192.5.6.30 2001:503:a83e:0:0:0:2:30
+nserver:      B.GTLD-SERVERS.NET 192.33.14.30 2001:503:231d:0:0:0:2:30
+nserver:      C.GTLD-SERVERS.NET 192.26.92.30 2001:503:83eb:0:0:0:0:30
+nserver:      D.GTLD-SERVERS.NET 192.31.80.30 2001:500:856e:0:0:0:0:30
+nserver:      E.GTLD-SERVERS.NET 192.12.94.30 2001:502:1ca1:0:0:0:0:30
+nserver:      F.GTLD-SERVERS.NET 192.35.51.30 2001:503:d414:0:0:0:0:30
+nserver:      G.GTLD-SERVERS.NET 192.42.93.30 2001:503:eea3:0:0:0:0:30
+nserver:      H.GTLD-SERVERS.NET 192.54.112.30 2001:502:8cc:0:0:0:0:30
+nserver:      I.GTLD-SERVERS.NET 192.43.172.30 2001:503:39c1:0:0:0:0:30
+nserver:      J.GTLD-SERVERS.NET 192.48.79.30 2001:502:7094:0:0:0:0:30
+nserver:      K.GTLD-SERVERS.NET 192.52.178.30 2001:503:d2d:0:0:0:0:30
+nserver:      L.GTLD-SERVERS.NET 192.41.162.30 2001:500:d937:0:0:0:0:30
+nserver:      M.GTLD-SERVERS.NET 192.55.83.30 2001:501:b1f9:0:0:0:0:30
+ds-rdata:     19718 13 2 8acbb0cd28f41250a80a491389424d341522d946b0da0c0291f2d3d771d7805a
+
+whois:        whois.verisign-grs.com
+
+status:       ACTIVE
+remarks:      Registration information: http://www.verisigninc.com
+
+created:      1985-01-01
+changed:      2026-03-10
+source:       IANA
+
+# whois.verisign-grs.com
+
+   Domain Name: CHAMPIRE.COM
+   Registry Domain ID: 2034876305_DOMAIN_COM-VRSN
+   Registrar WHOIS Server: whois.namebright.com
+   Registrar URL: http://www.NameBright.com
+   Updated Date: 2025-06-01T19:11:38Z
+   Creation Date: 2016-06-10T18:31:51Z
+   Registry Expiry Date: 2026-06-10T18:31:51Z
+   Registrar: TurnCommerce, Inc. DBA NameBright.com
+   Registrar IANA ID: 1441
+   Registrar Abuse Contact Email: support@namebright.com
+   Registrar Abuse Contact Phone: 17204960020
+   Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+   Name Server: NS1.SEDOPARKING.COM
+   Name Server: NS2.SEDOPARKING.COM
+   DNSSEC: unsigned
+   URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of whois database: 2026-05-03T17:19:58Z <<<
+
+# whois.namebright.com
+
+Domain Name: CHAMPIRE.COM
+Registry Domain ID: 2034876305_DOMAIN_COM-VRSN
+Registrar WHOIS Server: whois.NameBright.com
+Registrar URL: https://www.NameBright.com
+Updated Date: 2024-06-11T16:31:53.987Z
+Creation Date: 2016-06-10T18:31:51.000Z
+Registrar Registration Expiration Date: 2026-06-10T18:31:51.000Z
+Registrar: TurnCommerce, Inc. DBA NameBright.com
+Registrar IANA ID: 1441
+Registrar Abuse Contact Email: abuse@NameBright.com
+Registrar Abuse Contact Phone: +1.7204960020
+Domain Status: clientTransferProhibited https://www.icann.org/epp#clientTransferProhibited
+Registry Registrant ID: Not Available From Registry
+Registrant Name: Jin H. Park
+Registrant Organization: 
+Registrant Street: 904Dong 1101Ho, MaEum-Ro 151,
+Registrant City: Sejong-Shi
+Registrant State/Province: Sejong-Shi
+Registrant Postal Code: 30063
+Registrant Country: KR
+Registrant Phone: +82.1020513388
+Registrant Phone Ext: 
+Registrant Fax: 
+Registrant Fax Ext: 
+Registrant Email: key777888@naver.com
+Registry Admin ID: Not Available From Registry
+Admin Name: Jin H. Park
+Admin Organization: 
+Admin Street: 904Dong 1101Ho, MaEum-Ro 151,
+Admin City: Sejong-Shi
+Admin State/Province: Sejong-Shi
+Admin Postal Code: 30063
+Admin Country: KR
+Admin Phone: +82.1020513388
+Admin Phone Ext: 
+Admin Fax: 
+Admin Fax Ext: 
+Admin Email: key777888@naver.com
+Registry Tech ID: Not Available From Registry
+Tech Name: Jin H. Park
+Tech Organization: 
+Tech Street: 904Dong 1101Ho, MaEum-Ro 151,
+Tech City: Sejong-Shi
+Tech State/Province: Sejong-Shi
+Tech Postal Code: 30063
+Tech Country: KR
+Tech Phone: +82.1020513388
+Tech Phone Ext: 
+Tech Fax: 
+Tech Fax Ext: 
+Tech Email: key777888@naver.com
+Name Server: NS1.SEDOPARKING.COM
+Name Server: NS2.SEDOPARKING.COM
+DNSSEC: unsigned
+URL of the ICANN WHOIS Data Problem Reporting System: http://wdprs.internic.net/
+>>> Last update of WHOIS database: 2024-06-11T16:31:53.987Z <<<
+
+stacybradford@Stacys-MacBook-Air ~ % whois bs.sb
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+refer:        whois.nic.net.sb
+
+domain:       SB
+
+organisation: Solomon Telekom Company Limited
+address:      Telekom Haus
+address:      Mendana Avenue
+address:      P.O. Box 148
+address:      Honiara City Council
+address:      Honiara
+address:      Solomon Islands
+
+contact:      administrative
+name:         Manager Information Systems
+organisation: Solomon Telekom Company Limited
+address:      Telekom Haus
+address:      Mendana Avenue
+address:      P.O. Box 148
+address:      Honiara City Council
+address:      Honiara
+address:      Solomon Islands
+phone:        +677 43360
+fax-no:       +677 30003
+e-mail:       iana.admin@telekom.com.sb
+
+contact:      technical
+name:         Senior Engineer SBNIC
+organisation: Solomon Telekom Company Limited
+address:      Telekom Haus
+address:      Mendana Avenue
+address:      P.O. Box 148
+address:      Honiara City Council
+address:      Honiara
+address:      Solomon Islands
+phone:        +677 43119
+fax-no:       +677 30003
+e-mail:       iana.tech@telekom.com.sb
+
+nserver:      NS1.ANYCASTDNS.CZ 185.38.108.108 2a00:fea0:dead:0:0:0:0:beef
+nserver:      NS2.ANYCASTDNS.CZ 185.28.194.194
+nserver:      PCH.NIC.SB 2001:500:14:6031:ad:0:0:1 204.61.216.31
+ds-rdata:     17635 8 2 27f59686a15b09dc8293fac9c31e5be51abf214e1e9cd5b21cbe50f0f311c780
+
+whois:        whois.nic.net.sb
+
+status:       ACTIVE
+remarks:      Registration information: http://www.nic.net.sb/
+
+created:      1994-04-19
+changed:      2022-11-21
+source:       IANA
+
+# whois.nic.net.sb
+
+whois: connect(): Operation timed out
+stacybradford@Stacys-MacBook-Air ~ % 
