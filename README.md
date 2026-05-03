@@ -48,7 +48,13 @@ of looming absense...)
 
 Hello world.
 
-Or... ideally... local, state, and/or federal court room.
+I've been told I were my heart on my screen - so here's the key to it:
+416c6c20776f726b20616e64206e6f21006c6179206d616b65204a61636b20612064756c6c20626f79
+
+I did change one thing about it though to make it more authentically me.  Can't believe
+the 651321.parkingcrew.net didn't do it for me...
+
+Or... try to use it against me in... local, state, and/or federal court room.
 
 Using this readme for the moment to save some progress/thoughts
 
