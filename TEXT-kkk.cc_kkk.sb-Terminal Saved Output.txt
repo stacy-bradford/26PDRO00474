@@ -1,0 +1,60 @@
+Last login: Sun May  3 10:36:33 on ttys120
+You have mail.
+stacybradford@Stacys-MacBook-Air ~ % host 2002:a98:b708:0:b0:232:d84e:a098
+Host 8.9.0.a.e.4.8.d.2.3.2.0.0.b.0.0.0.0.0.0.8.0.7.b.8.9.a.0.2.0.0.2.ip6.arpa not found: 3(NXDOMAIN)
+stacybradford@Stacys-MacBook-Air ~ % whois 2002:a98:b708:0:b0:232:d84e:a098
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+inetnum:      10.0.0.0 - 10.255.255.255
+organisation: IANA - Private Use
+status:       RESERVED
+
+remarks:      Reserved for Private-Use Networks [RFC1918].Complete
+remarks:      registration details for 10.0.0.0/8 are found
+remarks:      iniana-ipv4-special-registry.
+
+changed:      1995-06
+source:       IANA
+
+stacybradford@Stacys-MacBook-Air ~ % clear
+
+
+
+
+
+
+
+
+
+stacybradford@Stacys-MacBook-Air ~ % host kkk.cc
+kkk.cc has address 172.96.160.198
+kkk.cc mail is handled by 0 kkk.cc.
+stacybradford@Stacys-MacBook-Air ~ % host kkk.sb
+kkk.sb has address 64.186.254.143
+stacybradford@Stacys-MacBook-Air ~ % host kkk.com
+Host kkk.com not found: 3(NXDOMAIN)
+stacybradford@Stacys-MacBook-Air ~ % host kkk.net
+kkk.net has address 47.89.60.95
+stacybradford@Stacys-MacBook-Air ~ % 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
