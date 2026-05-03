@@ -1,0 +1,10 @@
+
+host-static-109-185-199-153.moldtelecom.md.
+> stacybradford@Stacys-MacBook-Air ~ % host kennethchilds.com
+> kennethchilds.com has address 185.199.111.153
+> kennethchilds.com has address 185.199.109.153
+> kennethchilds.com has address 185.199.108.153
+> kennethchilds.com has address 185.199.110.153
+> kennethchilds.com mail is handled by 0 smtp.google.com.
+> stacybradford@Stacys-MacBook-Air ~ % host 109.185.199.153
+> 153.199.185.109.in-addr.arpa domain name pointer host-static-109-185-199-153.moldtelecom.md.
