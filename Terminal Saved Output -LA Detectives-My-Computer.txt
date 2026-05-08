@@ -1,0 +1,30 @@
+Last login: Thu May  7 22:04:04 on ttys051
+You have mail.
+stacybradford@Stacys-MacBook-Air ~ % host captiveagent.com
+captiveagent.com has address 76.223.54.146
+captiveagent.com has address 13.248.169.48
+captiveagent.com mail is handled by 0 .
+stacybradford@Stacys-MacBook-Air ~ % host mobilesms.com
+mobilesms.com has address 64.190.63.222
+mobilesms.com mail is handled by 0 localhost.
+stacybradford@Stacys-MacBook-Air ~ % host ladetectives.com
+ladetectives.com has address 64.190.63.222
+ladetectives.com mail is handled by 0 localhost.
+stacybradford@Stacys-MacBook-Air ~ % host 
+  [Restored May 8, 2026 at 00:08:22]
+Last login: Fri May  8 00:08:22 on ttys078
+You have mail.
+stacybradford@Stacys-MacBook-Air ~ % 
+
+
+
+
+
+
+
+
+
+
+
+
+
