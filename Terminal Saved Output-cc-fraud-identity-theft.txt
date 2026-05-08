@@ -1,0 +1,30 @@
+Last login: Thu May  7 20:20:56 on ttys048
+You have mail.
+stacybradford@Stacys-MacBook-Air ~ % host sms.com
+sms.com has address 104.26.9.174
+sms.com has address 172.67.71.120
+sms.com has address 104.26.8.174
+sms.com has IPv6 address 2606:4700:20::ac43:4778
+sms.com has IPv6 address 2606:4700:20::681a:9ae
+sms.com has IPv6 address 2606:4700:20::681a:8ae
+sms.com mail is handled by 5 sms-com.mail.protection.outlook.com.
+stacybradford@Stacys-MacBook-Air ~ % host ladetectives.com
+ladetectives.com has address 64.190.63.222
+ladetectives.com mail is handled by 0 localhost.
+stacybradford@Stacys-MacBook-Air ~ % host cccc.cccc.cccc.cccc.cc
+cccc.cccc.cccc.cccc.cc has address 80.82.223.105
+cccc.cccc.cccc.cccc.cc mail is handled by 10 mail.cccc.cc.
+stacybradford@Stacys-MacBook-Air ~ % host ffff.ffff.ffff.ffff.ffff.ffff.ffff.ffff.cc
+ffff.ffff.ffff.ffff.ffff.ffff.ffff.ffff.cc has address 208.98.43.14
+stacybradford@Stacys-MacBook-Air ~ % host iad66s01-in-f10..https
+host: 'iad66s01-in-f10..https' is not a legal name (empty label)
+stacybradford@Stacys-MacBook-Air ~ % host iad66s01-in-f10.https 
+Host iad66s01-in-f10.https not found: 3(NXDOMAIN)
+stacybradford@Stacys-MacBook-Air ~ % host iad66s01-in-f10..https.cc
+host: 'iad66s01-in-f10..https.cc' is not a legal name (empty label)
+stacybradford@Stacys-MacBook-Air ~ % 
+  [Restored May 8, 2026 at 00:08:22]
+Last login: Fri May  8 00:08:22 on ttys077
+You have mail.
+stacybradford@Stacys-MacBook-Air ~ % 
+
