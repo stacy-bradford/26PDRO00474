@@ -1,0 +1,25 @@
+Last login: Wed May  6 22:18:24 on ttys016
+You have mail.
+stacybradford@Stacys-MacBook-Air ~ % host identity.att.com
+identity.att.com is an alias for lsreg.att.com.edgekey.net.
+lsreg.att.com.edgekey.net is an alias for lsreg.att.com.splitter-eip.akadns.net.
+lsreg.att.com.splitter-eip.akadns.net is an alias for lsreg.att.com.eip.akadns.net.
+lsreg.att.com.eip.akadns.net is an alias for eip-terr-na.lsreg.att.com.akahost.net.
+eip-terr-na.lsreg.att.com.akahost.net has address 184.31.10.246
+eip-terr-na.lsreg.att.com.akahost.net has IPv6 address 2600:1480:4000:103::
+stacybradford@Stacys-MacBook-Air ~ % host 2600:1480:4000:103::
+0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.3.0.1.0.0.0.0.4.0.8.4.1.0.0.6.2.ip6.arpa domain name pointer g2600-1480-4000-0103-0000-0000-0000-0000.deploy.static.akamaitechnologies.com.
+stacybradford@Stacys-MacBook-Air ~ % host g2600-1480-4000-0103-0000-0000-0000-0000.deploy.static.akamaitechnologies.com. 
+
+g2600-1480-4000-0103-0000-0000-0000-0000.deploy.static.akamaitechnologies.com has address 0.0.0.0
+g2600-1480-4000-0103-0000-0000-0000-0000.deploy.static.akamaitechnologies.com has IPv6 address 2600:1480:4000:103::
+stacybradford@Stacys-MacBook-Air ~ % 
+  [Restored May 8, 2026 at 00:08:21]
+Last login: Fri May  8 00:08:21 on ttys054
+You have mail.
+stacybradford@Stacys-MacBook-Air ~ % 
+
+
+
+
+
